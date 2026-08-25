@@ -8,4 +8,4 @@ Having the skills and ability to design something that can improve an existing p
 
 During the summer of 2026, I had an internship where I worked alongside the Manufacturing Team at US Conec. This experience gave me the opportunity to learn more about what engineers do in the real world and how they approach problems and make decisions. Most importantly, it helped me understand the skills and qualities that contribute to becoming a successful engineer. The internship also gave me the opportunity to strengthen and apply the skills I had already developed.
 
-| [**Resume**](docs/aboutme/Portfolio Resume.pdf) | Email: ayang35@charlotte.edu |
+| [**Resume**](../resume/Portfolio%27%20Resume.pdf) | Email: ayang35@charlotte.edu |
