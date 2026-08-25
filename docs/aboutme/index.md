@@ -7,3 +7,5 @@ My interest in engineering began with working on cars with my dad. As a kid, I w
 Having the skills and ability to design something that can improve an existing product, or project is what motivates me to become the best engineer I can be. Developing my skills on the design side of engineering is something I want to continue improving. By taking this class, I hope to learn new skills and strengthen the skills I already have so that I can continue becoming the engineer I aspire to be.
 
 During the summer of 2026, I had an internship where I worked alongside the Manufacturing Team at US Conec. This experience gave me the opportunity to learn more about what engineers do in the real world and how they approach problems and make decisions. Most importantly, it helped me understand the skills and qualities that contribute to becoming a successful engineer. The internship also gave me the opportunity to strengthen and apply the skills I had already developed.
+
+*| Email: ayang35@charlotte.edu | [Resume](file:///C:/Users/18288/OneDrive%20-%20University%20of%20North%20Carolina%20at%20Charlotte/Desktop/Portfolio%20Resume.pdf) |*
