@@ -65,7 +65,7 @@ That last question is the standard: could someone read your entry, understand yo
 
 ---
 
-*MEGR 2156 — Design Projects I Laboratory | UNC Charlotte*
+*MEGR 2156 — Design Projects I Laboratory | UNC Charlotte |*
 *Andrew Yang | ayang35@charlotte.edu*
 
 
