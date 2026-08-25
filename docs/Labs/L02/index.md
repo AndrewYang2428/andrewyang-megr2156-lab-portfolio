@@ -23,3 +23,7 @@ Consideration:
 Tolerances
 
 It's important to consider tolerances because FDM parts come out slightly larger than expected due to material expansion. It may be effective to calibrate the machine to hold the tolerances for more accuracy of the part. 
+
+
+**Small Group Share Out**
+One thing that I learned about additive manufacturing is that the infill on parts increase strength and withstand greater loads. 
