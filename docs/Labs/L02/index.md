@@ -1,6 +1,6 @@
 # A2 – Individual Research: 
 
-**DfAM: **
+**DfAM:**
 
 Find one design rule or guideline specific to Design for Additive Manufacturing. In your own words, write two to three sentences: what the rule is and why it matters. Note your source.
 
@@ -14,7 +14,7 @@ Why this is a rule:
 
 Improving material efficiency and sustainability reduces waste promoting efficient material use. This allows for precise material placement and minimal waste. 
 
-**FDM: **
+**FDM:**
 
 Find one FDM specific consideration. This could be overhangs, bridging, layer adhesion, warping, supports, or infill strategy. In your own words, write two to three sentences: what it is and how a designer works around it. Note your source.
 
