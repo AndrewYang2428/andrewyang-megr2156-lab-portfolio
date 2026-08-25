@@ -2,9 +2,11 @@
 
 > **Engineering is the art of making decisions you can defend.**
 
-**Welcome to your design portfolio.**
+**Welcome to Andrew's design portfolio.**
 
-This site is the working record of your design decisions across MEGR 2156. Every entry documents your process — what you designed, how you designed it for the specific technology you were using, and what you learned from building it. Engineering documentation is a skill developed through deliberate practice. Each lab is an opportunity to improve the precision, clarity, and professional quality of how you record your work. As you progress through the semester your design capability will grow alongside your documentation — this portfolio is the record of that journey.
+[Insert Picture Here]
+
+My name is Andrew Yang. I am a junior at UNC Charlotte studying in Mechanical Engineering. This portfolio is a working record of my design decisions across MEGR 2156. It will consist of all the work and progress of the lab projects and the final project for MEGR 2156 - Design Projects I Laboratory. Every entry document will show what I designed, how I designed it, the purpose of my design, and what I learned from building it. Engineering documentation is a skill developed through deliberate practice. Each lab is an opportunity to improve the precision, clarity, and professional quality of how you record your work. As I progress through the semester, my design capability will grow alongside your documentation — this portfolio is the record of that journey.
 
 ---
 
@@ -64,7 +66,7 @@ That last question is the standard: could someone read your entry, understand yo
 ---
 
 *MEGR 2156 — Design Projects I Laboratory | UNC Charlotte*
-*Terence J. Fagan, Ph.D. | tjfagan@charlotte.edu | Duke 394*
+*Andrew Yang | ayang35@charlotte.edu*
 
 
 
