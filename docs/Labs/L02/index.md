@@ -16,6 +16,8 @@ Improving material efficiency and sustainability reduces waste promoting efficie
 
 **FDM:**
 
+Website: 
+
 Find one FDM specific consideration. This could be overhangs, bridging, layer adhesion, warping, supports, or infill strategy. In your own words, write two to three sentences: what it is and how a designer works around it. Note your source.
 
 Consideration:
@@ -26,4 +28,5 @@ It's important to consider tolerances because FDM parts come out slightly larger
 
 
 **Small Group Share Out**
+
 One thing that I learned about additive manufacturing is that the infill on parts increase strength and withstand greater loads. 
