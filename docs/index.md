@@ -4,7 +4,7 @@
 
 **Welcome to Andrew's design portfolio.**
 
-[Insert Picture Here]
+<img width="500" height="1000" alt="IMG_8995" src="https://github.com/user-attachments/assets/12b8d813-ae9c-4347-95ba-801128c99b24" />
 
 My name is Andrew Yang. I am a junior at UNC Charlotte studying in Mechanical Engineering. This portfolio is a working record of my design decisions across MEGR 2156. It will consist of all the work and progress of the lab projects and the final project for MEGR 2156 - Design Projects I Laboratory. Every entry document will show what I designed, how I designed it, the purpose of my design, and what I learned from building it. Engineering documentation is a skill developed through deliberate practice. Each lab is an opportunity to improve the precision, clarity, and professional quality of how you record your work. As I progress through the semester, my design capability will grow alongside your documentation — this portfolio is the record of that journey.
 
