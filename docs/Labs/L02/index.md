@@ -16,7 +16,7 @@ Improving material efficiency and sustainability reduces waste promoting efficie
 
 **FDM:**
 
-Website: 
+Website: https://1c3d.com/howtos/designing-parts-for-fdm-tolerances-overhangs-and-supports
 
 Find one FDM specific consideration. This could be overhangs, bridging, layer adhesion, warping, supports, or infill strategy. In your own words, write two to three sentences: what it is and how a designer works around it. Note your source.
 
@@ -29,4 +29,4 @@ It's important to consider tolerances because FDM parts come out slightly larger
 
 **Small Group Share Out**
 
-One thing that I learned about additive manufacturing is that the infill on parts increase strength and withstand greater loads. 
+One thing that I learned about additive manufacturing is that the infill on parts increase strength and withstand greater loads. Another thing that I learned was that depending on the design, there can be some overhang which can cause some defects and issues with your final print. There are many ways to fix overhangs, it just depends on your personal preference. 
