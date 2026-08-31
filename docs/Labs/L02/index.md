@@ -55,5 +55,5 @@ In this image, it shows that the print is at 100% and that the print is complete
 
 Detailed lessons learned and things you would change throughout the process, you should learn a minimum of four things. Actual time it took from downloading to finishing the 3D print. Recognize anyone who helped you through the process.
 
-Some of the things that I learned from this project was that 
+Some of the lessons learned from this project was that there are many key steps that have to take place before you finally print your design. This includes the type of material that is selected on PrusasSlicer has to match the material that is loaded into the 3D printer. Another thing that I learned was that the print has to have the correct thickness to fill out the entire part. When printing a specific design, there could be certain parts of the design that makes the print not come out to the standard that we want. The actual time it took from downloading to finishing the 3D print was 30 minutes. I teamed up with two of classmates, Ethan and Andy, to complete this project. Ethan downloaded the stl.files and placed them all together to make the printing process quicker and easier. We also had the Prusa Core One Design Quiz to complete, so we all worked together to complete the quiz while we waited for the print to be completed. 
 
