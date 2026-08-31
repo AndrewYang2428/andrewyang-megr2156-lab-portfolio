@@ -1,7 +1,6 @@
 # MEGR 2157 - Lab #2: Print Something Small
 
 # Download:
-
 Downloaded STL file goes here [Keychain Whistle](https://www.printables.com/model/394669-loud-and-compact-whistle-for-your-keychain/files)
 
 <p align="center">
@@ -13,7 +12,6 @@ Detailing the reasons why you chose to download and print the item. Include imag
 I chose the Keychain Whistle as my design because this was a small simple design that was functional. My intentions when I print a design is to be able to use it after it is printed. The Keychain Whistle is a small convenient tool that if printed correctly, I would be able to use it afterwards. 
 
 # Preprocessor:
-
 Note the slicer information on Prusaslicer. Some, not all questions, to answer are outlined below to guide your documentation.
 
 Why choose the build orientation?
@@ -39,11 +37,7 @@ Some of the mistakes in PrusasSlicer was setting the correct material that is us
 In this image, it shows the design model sliced in PrusasSlicer. It also displays the "Sliced Info" in the bottom corner including the time it will take to complete this print. At the top left corner, it breaks down the time, percentage, and the used filament that will be used to complete the print as well.
 
 # Print:
-
-Document the 3d print process, take pictures from start to finish.
-Note the number of the printer you used.
-Acknowledge the person(s) you printed with.
-Take a video approximately 15 second long of the process.
+Document the 3d print process, take pictures from start to finish. Note the number of the printer you used. Acknowledge the person(s) you printed with. Take a video approximately 15 second long of the process.
 
 <img width="2284" height="3712" alt="IMG_6478" src="https://github.com/user-attachments/assets/e2558d74-7641-4da4-9f14-3fcac8182513" />
 
@@ -62,7 +56,6 @@ In this image, it shows that the print is at 100% and that the print is complete
 This is a quick video of the 3D printing process of all three designs.
 
 # Lessons Learned: 
-
 Detailed lessons learned and things you would change throughout the process, you should learn a minimum of four things. Actual time it took from downloading to finishing the 3D print. Recognize anyone who helped you through the process.
 
 Some of the lessons learned from this project was that there are many key steps that have to take place before you finally print your design. This includes the type of material that is selected on PrusasSlicer has to match the material that is loaded into the 3D printer. Another thing that I learned was that the print has to have the correct thickness to fill out the entire part. When printing a specific design, there could be certain parts of the design that makes the print not come out to the standard that we want. The actual time it took from downloading to finishing the 3D print was 30 minutes. I teamed up with two of classmates, Ethan and Andy, to complete this project. Ethan downloaded the stl.files and placed them all together to make the printing process quicker and easier. We also had the Prusa Core One Design Quiz to complete, so we all worked together to complete the quiz while we waited for the print to be completed. 
