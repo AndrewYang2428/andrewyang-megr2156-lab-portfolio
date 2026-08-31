@@ -57,7 +57,7 @@ In this image, some of the information that is shown are the image of what is be
 
 In this image, it shows that the print is at 100% and that the print is completed with 0 minutes remaining. The image of what was printed is still displayed to show what was printed on that specific 3D printer. 
 
-https://github.com/user-attachments/assets/a4fb6b31-ce41-44b7-9f7e-7776997b70af
+[Video of Project](https://github.com/user-attachments/assets/a4fb6b31-ce41-44b7-9f7e-7776997b70af)
 
 This is a quick video of the 3D printing process of all three designs.
 
