@@ -39,7 +39,7 @@ Take a video approximately 15 second long of the process.
 
 In this image, it shows the PrusasSlicer heating the 3D printer to prep for printing.
 
-<img width="1024" height="3032" alt="IMG_7730" src="https://github.com/user-attachments/assets/74047d68-9df2-4543-abd7-86277d6e08d8" />
+<img width="3024" height="2032" alt="IMG_7730" src="https://github.com/user-attachments/assets/74047d68-9df2-4543-abd7-86277d6e08d8" />
 
 In this image, some of the information that is shown are the image of what is being printed, the bar of the percentage of the print completed, and how many more minutes is still remaining on the print until it is done.
 
