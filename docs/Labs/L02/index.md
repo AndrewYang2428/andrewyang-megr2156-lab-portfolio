@@ -35,7 +35,17 @@ Note the number of the printer you used.
 Acknowledge the person(s) you printed with.
 Take a video approximately 15 second long of the process.
 
+<img width="2284" height="3712" alt="IMG_6478" src="https://github.com/user-attachments/assets/e2558d74-7641-4da4-9f14-3fcac8182513" />
 
+In this image, it shows the PrusasSlicer heating the 3D printer to prep for printing.
+
+<img width="1024" height="3032" alt="IMG_7730" src="https://github.com/user-attachments/assets/74047d68-9df2-4543-abd7-86277d6e08d8" />
+
+In this image, some of the information that is shown are the image of what is being printed, the bar of the percentage of the print completed, and how many more minutes is still remaining on the print until it is done.
+
+<img width="2032" height="1024" alt="IMG_7739" src="https://github.com/user-attachments/assets/6f4f5202-2b91-452f-96a7-bae0f8fcdc60" />
+
+In this image, it shows that the print is at 100% and that the print is completed with 0 minutes remaining. The image of what was printed is still displayed to show what was printed on that specific 3D printer. 
 
 # Lessons Learned: 
 
