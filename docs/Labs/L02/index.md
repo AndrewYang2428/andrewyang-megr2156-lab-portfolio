@@ -32,6 +32,12 @@ Detail any mistakes throughout the process.
 
 Some of the mistakes in PrusasSlicer was setting the correct material that is used in the printer to match the material setting I had on PrusasSlicer. This was a simple project that allowed me to get used to the 3D printer and understand the process that is required to take when I want to print out  a design. 
 
+<p align='center'>
+<img width="1917" height="915" alt="Sliced_Keychain_Whistle" src="https://github.com/user-attachments/assets/02fbe0e4-526e-48ba-9d90-aa4aec87973f" />
+</p>
+
+In this image, it shows the design model sliced in PrusasSlicer. It also displays the "Sliced Info" in the bottom corner including the time it will take to complete this print. At the top left corner, it breaks down the time, percentage, and the used filament that will be used to complete the print as well.
+
 # Print:
 
 Document the 3d print process, take pictures from start to finish.
@@ -41,7 +47,7 @@ Take a video approximately 15 second long of the process.
 
 <img width="2284" height="3712" alt="IMG_6478" src="https://github.com/user-attachments/assets/e2558d74-7641-4da4-9f14-3fcac8182513" />
 
-In this image, it shows the PrusasSlicer heating the 3D printer to prep for printing.
+In this image, it shows the PrusasSlicer heating the bed, prepping it for the printing process. At the bottom, you can see the percentage bar that shows where the 3D printer is at in the heating process, and also the temperature it has to be at in order to proceed with the printing process.
 
 <img width="3024" height="2032" alt="IMG_7730" src="https://github.com/user-attachments/assets/74047d68-9df2-4543-abd7-86277d6e08d8" />
 
