@@ -39,6 +39,11 @@ In this image, it shows the design model sliced in PrusasSlicer. It also display
 # Print:
 Document the 3d print process, take pictures from start to finish. Note the number of the printer you used. Acknowledge the person(s) you printed with. Take a video approximately 15 second long of the process.
 
+<img width="500" height="1000" alt="IMG_7764" src="https://github.com/user-attachments/assets/0ea16c7c-7454-4eb8-a17a-2f300dd29ff1" />
+<img width="500" height="1000" alt="IMG_7763" src="https://github.com/user-attachments/assets/a80e3862-1f65-4344-af43-c3a4a900d5cf" />
+
+This is the final product of my design, it shows the front and the back of the Keychain Whistle. On one side, it shows the inside of the whistle because the specs that we set for the print was too thin to complete the full design. 
+
 <img width="2284" height="3712" alt="IMG_6478" src="https://github.com/user-attachments/assets/e2558d74-7641-4da4-9f14-3fcac8182513" />
 
 In this image, it shows the PrusasSlicer heating the bed, prepping it for the printing process. At the bottom, you can see the percentage bar that shows where the 3D printer is at in the heating process, and also the temperature it has to be at in order to proceed with the printing process.
