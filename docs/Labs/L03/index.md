@@ -6,6 +6,17 @@ Document the design process, which includes many pictures with an overview of im
 
 Detail the steps and reasons/decisions from start to finish.
 
+For this project, the requirements were:
+
+1. Design a small object on a parametric CAD system.
+2. Research three infills to describe what the uses are for each, besides the ones presented in class.
+3. Use PrusaSlicer to change the default infill percentage, infill pattern, and wall thickness.
+4. 3D print your design using one of the FDM printers from the UNCC print farm.
+5. In your documentation, directly answer these three questions from the live demo:
+  - How does percentage infill affect mechanical properties?
+  - How do different infill patterns affect mechanical properties?
+  - Why use different wall thicknesses?
+
 ## Research:
 
 Research three infills not shown in class to describe the geometry and why each infill is used.
