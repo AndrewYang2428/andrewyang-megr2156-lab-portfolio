@@ -1,4 +1,4 @@
-# A3 – [Lab#3: Design Something Small]
+# A3 – Lab#3:Design Something Small
 
 ## Design:
 
