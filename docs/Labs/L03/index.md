@@ -47,7 +47,11 @@ Some of the in-fills that were available in PrusasSlicer are Grid, Honeycomb, Tr
 
 ## Resources:
 
-Website: https://pmc.ncbi.nlm.nih.gov/articles/PMC9865300/?utm_source=chatgpt.com
+[https://gyroid.app/guides/infill-patterns-explained/](https://gyroid.app/guides/infill-patterns-explained/)
+
+[https://3dprintinggeek.com/cura-infill-patterns/](https://3dprintinggeek.com/cura-infill-patterns/)
+
+[https://help.prusa3d.com/article/infill-patterns_177130](https://help.prusa3d.com/article/infill-patterns_177130)
 
 ## Preprocessor/Printing:
 
