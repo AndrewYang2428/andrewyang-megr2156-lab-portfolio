@@ -76,6 +76,11 @@ Upload a video showing the 3D operation of your component to your GitHub portfol
 
 Confirm the printed part meets all stipulations (size, height, no overhangs, PLA/PETG, print time).
 
+
+https://github.com/user-attachments/assets/9c804972-578a-4965-b6be-2a3efdc43660
+
+
+
 ## Lessons Learned:
 
 Detailed lessons learned throughout the process, the more detail the better. Which includes detailing any mistakes throughout the process and how you fixed them.
