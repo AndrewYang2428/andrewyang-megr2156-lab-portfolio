@@ -102,7 +102,7 @@ This is a picture of the Triangle in-fill pattern.
 This is a picture of the cord holder in use, holding a cord in place. 
 
 
-https://github.com/user-attachments/assets/9c804972-578a-4965-b6be-2a3efdc43660
+[Video](https://github.com/user-attachments/assets/9c804972-578a-4965-b6be-2a3efdc43660)
 
 This is a quick video of our print process. It does show the orientation of our designs and the Triangles in-fill patter that we chose. 
 
