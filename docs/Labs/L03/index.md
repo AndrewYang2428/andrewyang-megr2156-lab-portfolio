@@ -42,11 +42,12 @@ Research three infills not shown in class to describe the geometry and why each 
 
 Directly answer: how does infill percentage affect mechanical properties, and how do different infill patterns affect mechanical properties? Why use different wall thickness?
 
-Some of the in-fills that were available in PrusasSlicer are Grid, Honeycomb, Triangles, Rectilinear, etc... There are many other in-fills that are available to us in PrusasSlicer but since this was a small design project, me and my partner Andy chose to go with the Triangles in-fill. We chose this in-fill because we thought the Triangle in-fill would have a stronger structural support for our designs. We also thought that the Triangle pattern would be a unique design to use for this in-fill. 
+Some of the in-fills that were available in PrusasSlicer are Grid, Honeycomb, Triangles, Rectilinear, etc... There are many other in-fills that are available to us in PrusasSlicer but since this was a small design project, me and my partner Andy chose to go with the Triangles in-fill. We chose this in-fill because we thought the Triangle in-fill would have a stronger structural support for our designs. We also thought that the Triangle pattern would be a unique design to use for this in-fill. The three in-fill patterns that I chose was the Honeycomb, Triangles, and the Grid pattern. The Honeycomb in-fill is made of repeating hexagonal cells, similar to a bee honeycomb. The Honeycomb infill provides a good balance between strength and weight. It is also commonly used when a lightweight but relatively strong structure is desired. The Triangle in-fill consist of lines that intersect to form repeating triangular shapes throughout the interior of the part. This in-fill is useful when high stiffness and resistance to deformation are important. The geometry provides multiple load paths allowing forces to be distributed throughout the part. The Grid in-fill provides a good combination of strength, print speed, and material efficiency. The Grid in-fill is a pretty common in-fill pattern that is used. 
 
-After doing some research on these in-fill patterns...
 
 ## Resources:
+
+Website: https://pmc.ncbi.nlm.nih.gov/articles/PMC9865300/?utm_source=chatgpt.com
 
 ## Preprocessor/Printing:
 
@@ -66,7 +67,7 @@ I chose to lay my cable holder on the side to make the printing process easier b
 
 I did have to scale my cable holder down a bit to fit the dimensions that we were required to meet. In PrusasSlicer, we are able to scale the model down and fix the orientation of the print to what we wanted. 
 
-For my model I did not modify the wall thickness because 
+For my model I did not modify the wall thickness because I didn't want my print to come out too thick and stiff. The end-goal of my design was to be sturdy but also flexible so since I printed my design with my partner, we came to an agreement to print with the same in-fill pattern, in-fill percentage, and wall thickness.
 
 ## Print:
 
@@ -79,6 +80,7 @@ Confirm the printed part meets all stipulations (size, height, no overhangs, PLA
 
 https://github.com/user-attachments/assets/9c804972-578a-4965-b6be-2a3efdc43660
 
+This is a quick video of our print process. It does show the orientation of our designs and the Triangles in-fill patter that we chose. 
 
 
 ## Lessons Learned:
@@ -93,4 +95,5 @@ What mistake did you catch, and what mistake might you not have caught? Detail a
 
 How does this connect to a real product decision? Identify a consumer or industrial product where infill strategy, wall thickness, or material choice affects user safety (it doesn't have to be 3D printed). Briefly explain the parallel.
 
+For this second small print, I've learned that to get a good print, the orientation of the design has to be flat with the surface in order to get a smooth print. Another issue that we ran into was that the file was under the wrong printer setting, which caused an error with the file. Me and my partner had to export the file again with the correct Printer setting. This was a quick fix for our project, after this our print process went smoothly. The print took about 30-40 minutes to complete because the 3D printer takes time to warm up and get set before it is ready to print. If I scaled the design up, the print time will be longer because the overall size of the print will be larger. 
 
