@@ -42,7 +42,7 @@ Research three infills not shown in class to describe the geometry and why each 
 
 Directly answer: how does infill percentage affect mechanical properties, and how do different infill patterns affect mechanical properties? Why use different wall thickness?
 
-Some of the in-fills that were available in PrusasSlicer are Grid, Honeycomb, Triangles, Rectilinear, etc... There are many other in-fills that are available to us in PrusasSlicer but since this was a small design project, me and my partner Andy chose to go with the Triangles in-fill. We chose this in-fill because we thought this in
+Some of the in-fills that were available in PrusasSlicer are Grid, Honeycomb, Triangles, Rectilinear, etc... There are many other in-fills that are available to us in PrusasSlicer but since this was a small design project, me and my partner Andy chose to go with the Triangles in-fill. We chose this in-fill because we thought the Triangle in-fill would have a stronger structural support for our designs. We also thought that the Triangle pattern would be a unique design to use for this in-fill. 
 
 After doing some research on these in-fill patterns...
 
