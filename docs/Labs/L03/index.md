@@ -38,12 +38,9 @@ This is the final design of my project. The final touches that I included were t
 
 ## Research:
 
-Research three infills not shown in class to describe the geometry and why each in-fill is used.
-
-Directly answer: how does infill percentage affect mechanical properties, and how do different infill patterns affect mechanical properties? Why use different wall thickness?
+Research three infills not shown in class to describe the geometry and why each in-fill is used. Directly answer: how does infill percentage affect mechanical properties, and how do different infill patterns affect mechanical properties? Why use different wall thickness?
 
 Some of the in-fills that were available in PrusasSlicer are Grid, Honeycomb, Triangles, Rectilinear, etc... There are many other in-fills that are available to us in PrusasSlicer but since this was a small design project, me and my partner Andy chose to go with the Triangles in-fill. We chose this in-fill because we thought the Triangle in-fill would have a stronger structural support for our designs. We also thought that the Triangle pattern would be a unique design to use for this in-fill. The three in-fill patterns that I chose was the Honeycomb, Triangles, and the Grid pattern. The Honeycomb in-fill is made of repeating hexagonal cells, similar to a bee honeycomb. The Honeycomb infill provides a good balance between strength and weight. It is also commonly used when a lightweight but relatively strong structure is desired. The Triangle in-fill consist of lines that intersect to form repeating triangular shapes throughout the interior of the part. This in-fill is useful when high stiffness and resistance to deformation are important. The geometry provides multiple load paths allowing forces to be distributed throughout the part. The Grid in-fill provides a good combination of strength, print speed, and material efficiency. The Grid in-fill is a pretty common in-fill pattern that is used. 
-
 
 ## Resources:
 
@@ -55,17 +52,7 @@ Some of the in-fills that were available in PrusasSlicer are Grid, Honeycomb, Tr
 
 ## Preprocessor/Printing:
 
-Document the slicer information on PrusaSlicer. Some, not all, questions to answer are outlined below to guide your documentation.
-
-Why choose the build orientation?
-
-Did you need to scale? If so, why and how?
-
-What different infill was used in your print versus the default, and why was it used?
-
-What was the wall thickness modified to, and why? Directly answer: why use different wall thicknesses?
-
-Detail any mistakes throughout the process.
+Document the slicer information on PrusaSlicer. Some, not all, questions to answer are outlined below to guide your documentation. Why choose the build orientation? Did you need to scale? If so, why and how? What different infill was used in your print versus the default, and why was it used?What was the wall thickness modified to, and why? Directly answer: why use different wall thicknesses? Detail any mistakes throughout the process.
 
 I chose to lay my cable holder on the side to make the printing process easier because my design has a curve top surface. By orienting my design this way, I am able to get the shape that I want without having to worry about any supports or overhangs when printing. When choosing the in-fill pattern, I wanted to choose something that would help with the function of my design, which is to be flexible but sturdy enough to hold its shape. I joined my teammate Andy to print our designs together, so we chose the triangle in-fill pattern. 
 
@@ -109,7 +96,7 @@ This picture shows a small demonstration about what the cord holder was designed
 
 [Video](https://github.com/user-attachments/assets/9c804972-578a-4965-b6be-2a3efdc43660)
 
-This is a quick video of our print process. It does show the orientation of our designs and the Triangles in-fill patter that we chose. 
+This is a quick video of our print process. It does show the orientation of our designs and the Triangles in-fill patter that we chose. *Still having issues with getting the video to show on the portfolio webpage.*
 
 
 ## Lessons Learned:
