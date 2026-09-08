@@ -79,13 +79,27 @@ Confirm the printed part meets all stipulations (size, height, no overhangs, PLA
 
 <img width="4032" height="3024" alt="IMG_7810" src="https://github.com/user-attachments/assets/90caf34f-a83e-4a29-aac5-031861f7adec" />
 
+This picture shows the overall shape and structure of my cord holder.
+
 <img width="4032" height="3024" alt="IMG_7813" src="https://github.com/user-attachments/assets/01f68b82-ee8f-4483-841f-27e554c29ae7" />
+
+This is the front view of the cord holder.
 
 <img width="3024" height="4032" alt="IMG_7812" src="https://github.com/user-attachments/assets/ae1b678e-c376-486e-b193-b7dc5fe50179" />
 
+This is the bottom view of the cord holder.
+
 <img width="3024" height="4032" alt="IMG_7809" src="https://github.com/user-attachments/assets/a83bdd5d-b230-4a4b-89ed-882ff1d3bb7b" />
 
+The is a side view of the cord holder.
+
 <img width="3024" height="4032" alt="IMG_7783" src="https://github.com/user-attachments/assets/b7ab1045-0d1a-400c-89c8-ac573bc444ef" />
+
+This is a picture of the Triangle in-fill pattern. 
+
+<img width="3024" height="4032" alt="IMG_7816" src="https://github.com/user-attachments/assets/29e8188c-abd6-48e1-8abf-0c24ab48a6c7" />
+
+This is a picture of the cord holder in use, holding a cord in place. 
 
 
 https://github.com/user-attachments/assets/9c804972-578a-4965-b6be-2a3efdc43660
