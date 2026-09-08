@@ -77,29 +77,30 @@ Upload a video showing the 3D operation of your component to your GitHub portfol
 
 Confirm the printed part meets all stipulations (size, height, no overhangs, PLA/PETG, print time).
 
+<img width="1917" height="992" alt="Lab_3_Slice_Info" src="https://github.com/user-attachments/assets/523acaa4-e900-4a44-a2d0-fa69d90b3a98" />
+
+The information about the scaling, print time, material, and Printer type is shown in this picture. For this print, the estimated time to complete this print is 23 minutes. The filament used for this printer was the Generic PETG, and the printer used is the Prusa CORE One HF0.4 nozzle. I scaled my design down to X: 0.5438 Y: 1.2766 Z: 0.5163. 
+
+<img width="1415" height="802" alt="Lab_3_In-Fill_Pattern" src="https://github.com/user-attachments/assets/50f9f7f1-b906-4f3a-ac8a-a545b44999f3" />
+
+This is a view of the in-fill pattern in PrusasSlicer. Me and my partner Andy chose to put the in-fill percentage to 50% using the Triangles in-fill pattern.
+
 <img width="4032" height="3024" alt="IMG_7810" src="https://github.com/user-attachments/assets/90caf34f-a83e-4a29-aac5-031861f7adec" />
 
-This picture shows the overall shape and structure of my cord holder.
-
-<img width="4032" height="3024" alt="IMG_7813" src="https://github.com/user-attachments/assets/01f68b82-ee8f-4483-841f-27e554c29ae7" />
-
-This is the front view of the cord holder.
+This picture shows the overall shape and structure of my cord holder. The hole through the middle is where the cord is fed through and held in place.
 
 <img width="3024" height="4032" alt="IMG_7812" src="https://github.com/user-attachments/assets/ae1b678e-c376-486e-b193-b7dc5fe50179" />
 
-This is the bottom view of the cord holder.
-
-<img width="3024" height="4032" alt="IMG_7809" src="https://github.com/user-attachments/assets/a83bdd5d-b230-4a4b-89ed-882ff1d3bb7b" />
-
-The is a side view of the cord holder.
+This is the bottom of the cord holder. I specifically designed it to be flat on the bottom to place Velcro strips or double-sided tape to place the cord holder anywhere you wanted.
 
 <img width="3024" height="4032" alt="IMG_7783" src="https://github.com/user-attachments/assets/b7ab1045-0d1a-400c-89c8-ac573bc444ef" />
 
-This is a picture of the Triangle in-fill pattern. 
+This is a picture of the Triangles in-fill pattern while it is still being printed. This picture shows a real example of what the Triangles in-fill pattern looks like. It looks a lot like how it looks like in PrusasSlicer but being able to see a real version of it gives a better view of the triangular pattern. 
 
 <img width="3024" height="4032" alt="IMG_7816" src="https://github.com/user-attachments/assets/29e8188c-abd6-48e1-8abf-0c24ab48a6c7" />
 
-This is a picture of the cord holder in use, holding a cord in place. 
+This picture shows a small demonstration about what the cord holder was designed for. It is designed to separately hold cords and keep them aligned and organized. It does work properly but there can be changes made to make this design work to its best ability. 
+
 
 
 [Video](https://github.com/user-attachments/assets/9c804972-578a-4965-b6be-2a3efdc43660)
