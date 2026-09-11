@@ -8,8 +8,9 @@ The Tolerance Gauge tests how accurate the 3D printer can be with the tolerances
 
 For this test I was required to design a tolerance gauge that tested the tolerance of plus or minus 0.3mm, measure the actual dimensions, and calculate the printer's real tolerance.
 
-Predictions:
+### Predictions:
 
+Before testing the Tolerance Gauge, I think that the printer tolerance will not be accurate to the 3D model because of the filament used. For the tolerance gauge that I designed, I feel that the most accurate tolerance should be the plus or minus 0.3mm. 
 
 
 ## Decide:
