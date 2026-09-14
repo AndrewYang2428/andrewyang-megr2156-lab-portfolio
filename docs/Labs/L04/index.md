@@ -19,8 +19,9 @@ Before testing the Tolerance Gauge, I think that the printer tolerance will not 
 Picture: CAD dimensions of the base
 
 <img width="1917" height="1020" alt="Lab_4_Tolerance_Base" src="https://github.com/user-attachments/assets/2c91e375-a58d-4dfb-829f-4465b0c55dd3" />
-
 <img width="1917" height="1020" alt="Lab_4_Base_Extrusion" src="https://github.com/user-attachments/assets/408a64e5-a6e7-4ce7-8a41-df8bbc1e2bef" />
+
+For the base of the Tolerance Gauge, I sketched out an 8mm by 1mm block and extruded it out 2mm.
 
 Picture: CAD dimensions of the gauges
 
@@ -28,21 +29,26 @@ Picture: CAD dimensions of the gauges
 
 <img width="1917" height="1020" alt="Lab_4_Tolerance_Gauge_Extrusion" src="https://github.com/user-attachments/assets/f9afec52-cd7e-4726-a0b4-912c8b955395" />
 
+For the Tolerance Gauge, I sketched out 5 1mm diameter circles spread out evenly on the top of the base that holds different tolerances ranging from 0.1mm-0.5mm. Then, I extruded the circles 0.5mm out of the base to create the pillars that are used to measure the tolerances. 
+
 Picture: CAD View of Dimension Numbers
 
 <img width="1917" height="1020" alt="Lab_4_Tolerance_Number" src="https://github.com/user-attachments/assets/a1776252-ae4e-4c86-8444-4094ecf23809" />
 
+For each tolerance of the 5 pillars, I extruded out the number of the tolerance on top of the pillars. This allowed for easy distinction of each pillar and the tolerance placed on them. 
+
 Picture: Final Tolerance Gauge
 
 <img width="1917" height="1020" alt="Lab_4_Tolerance_Numbers" src="https://github.com/user-attachments/assets/40b0ac1e-1115-4ce5-a46f-2476c360eaf9" />
+
+This is the Final View of my Tolerance Gauge that I designed to test the 3D printer. 
 
 ### Print Process:
 
 PrusasSlicer:
 
 <img width="2559" height="1470" alt="generic_info" src="https://github.com/user-attachments/assets/d41325f6-83d2-40c7-a2d9-0166cb286628" />
-
-<img width="362" height="110" alt="infill_used" src="https://github.com/user-attachments/assets/fa7f9404-18b4-4ff0-849a-3ae305bd9a25" />
+<img width="1000" height="200" alt="infill_used" src="https://github.com/user-attachments/assets/fa7f9404-18b4-4ff0-849a-3ae305bd9a25" />
 
 <img width="4000" height="3000" alt="20260911_091324" src="https://github.com/user-attachments/assets/b755b9e0-5c2d-4ac0-9919-cb63f1ec2d24" />
 
@@ -53,8 +59,6 @@ Start of print:
 <img width="4032" height="3024" alt="IMG_7856 2" src="https://github.com/user-attachments/assets/ba2c1190-c5ab-49e3-bb10-225e4967aba3" />
 
 <img width="4032" height="3024" alt="IMG_7859 2" src="https://github.com/user-attachments/assets/51a13765-c43a-415d-adcf-8110cc5eda3d" />
-
-
 
 ## Preprocessor:
 
