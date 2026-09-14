@@ -50,11 +50,9 @@ Start of print:
 
 <img width="4000" height="3000" alt="20260911_093616" src="https://github.com/user-attachments/assets/d02420bc-98cf-4433-a461-c33c5c6a9be0" />
 
-Middle of Print:
+<img width="4032" height="3024" alt="IMG_7856 2" src="https://github.com/user-attachments/assets/ba2c1190-c5ab-49e3-bb10-225e4967aba3" />
 
-
-
-Final Product:
+<img width="4032" height="3024" alt="IMG_7859 2" src="https://github.com/user-attachments/assets/51a13765-c43a-415d-adcf-8110cc5eda3d" />
 
 
 
