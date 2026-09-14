@@ -14,21 +14,49 @@ Before testing the Tolerance Gauge, I think that the printer tolerance will not 
 
 
 ## Decide:
-3D CAD Model:
+### 3D CAD Model:
 
 Picture: CAD dimensions of the base
 
+<img width="1917" height="1020" alt="Lab_4_Tolerance_Base" src="https://github.com/user-attachments/assets/2c91e375-a58d-4dfb-829f-4465b0c55dd3" />
+
+<img width="1917" height="1020" alt="Lab_4_Base_Extrusion" src="https://github.com/user-attachments/assets/408a64e5-a6e7-4ce7-8a41-df8bbc1e2bef" />
+
 Picture: CAD dimensions of the gauges
+
+<img width="1917" height="1020" alt="Lab_4_Tolerance_Gauge" src="https://github.com/user-attachments/assets/70ec75d6-d7e6-4e95-9889-df0767a880df" />
+
+<img width="1917" height="1020" alt="Lab_4_Tolerance_Gauge_Extrusion" src="https://github.com/user-attachments/assets/f9afec52-cd7e-4726-a0b4-912c8b955395" />
+
+Picture: CAD View of Dimension Numbers
+
+<img width="1917" height="1020" alt="Lab_4_Tolerance_Number" src="https://github.com/user-attachments/assets/a1776252-ae4e-4c86-8444-4094ecf23809" />
 
 Picture: Final Tolerance Gauge
 
-Print Process:
+<img width="1917" height="1020" alt="Lab_4_Tolerance_Numbers" src="https://github.com/user-attachments/assets/40b0ac1e-1115-4ce5-a46f-2476c360eaf9" />
+
+### Print Process:
+
+PrusasSlicer:
+
+<img width="2559" height="1470" alt="generic_info" src="https://github.com/user-attachments/assets/d41325f6-83d2-40c7-a2d9-0166cb286628" />
+
+<img width="362" height="110" alt="infill_used" src="https://github.com/user-attachments/assets/fa7f9404-18b4-4ff0-849a-3ae305bd9a25" />
+
+<img width="4000" height="3000" alt="20260911_091324" src="https://github.com/user-attachments/assets/b755b9e0-5c2d-4ac0-9919-cb63f1ec2d24" />
 
 Start of print:
 
+<img width="4000" height="3000" alt="20260911_093616" src="https://github.com/user-attachments/assets/d02420bc-98cf-4433-a461-c33c5c6a9be0" />
+
 Middle of Print:
 
+
+
 Final Product:
+
+
 
 ## Preprocessor:
 
