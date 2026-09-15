@@ -2,11 +2,9 @@
 
 ## Analyze:
 
-Benchmark Test: Tolerance Gauge
+### Benchmark Test: Tolerance Gauge
 
-The Tolerance Gauge tests how accurate the 3D printer can be with the tolerances placed on the object that is being printed. When adding a tolerance to a dimension, its limits the amount of play that the 3D printer has when printing. This allows for more precision and accuracy to the overall model. When looking at a model or an object, it could look correct but still be dimensionally wrong because of the tolerances that were placed on the object. If there are tolerances in place, there are also other external factors that can affect the overall shape of the model as well like temperature, material, the print porcess, etc... 
-
-For this test I was required to design a tolerance gauge that tested the tolerance of plus or minus 0.3mm, measure the actual dimensions, and calculate the printer's real tolerance.
+The Tolerance Gauge tests how accurately a 3D printer can produce the specified tolerances of a printed object. When a tolerance is added to a dimension, it defines the acceptable range in which the actual printed dimension can vary from the designed dimension. This helps evaluate the precision and accuracy of the 3D printer. A model may appear correct visually while still being dimensionally inaccurate because of variations in the printing process. Other external factors, such as temperature, material, printer settings, and the printing process itself, can also affect the final dimensions and overall shape of the model. For this test, I was required to design a tolerance gauge that tested a tolerance of ±0.3 mm, measure the actual dimensions of the printed gauge, and calculate the printer's actual tolerance. The main goal of this design was to determine whether the 3D printer could consistently meet the specified tolerance from the design requirements. These benchmark tests are useful for determining the limits of a 3D printer and identifying areas where adjustments can be made. The results can be used to modify printer settings and improve the printer's accuracy and consistency for future prints.
 
 ### Predictions:
 
@@ -18,16 +16,19 @@ Before testing the Tolerance Gauge, I think that the printer tolerance will not 
 
 Picture: CAD dimensions of the base
 
-<img width="1917" height="1020" alt="Lab_4_Tolerance_Base" src="https://github.com/user-attachments/assets/2c91e375-a58d-4dfb-829f-4465b0c55dd3" />
-<img width="1917" height="1020" alt="Lab_4_Base_Extrusion" src="https://github.com/user-attachments/assets/408a64e5-a6e7-4ce7-8a41-df8bbc1e2bef" />
+<p align='center'>
+<img width="49.5%" height="2000" alt="Lab_4_Tolerance_Base" src="https://github.com/user-attachments/assets/2c91e375-a58d-4dfb-829f-4465b0c55dd3" />
+<img width="49.5%" height="2000" alt="Lab_4_Base_Extrusion" src="https://github.com/user-attachments/assets/408a64e5-a6e7-4ce7-8a41-df8bbc1e2bef" />
+</p>
 
-For the base of the Tolerance Gauge, I sketched out an 8mm by 1mm block and extruded it out 2mm.
+For the base of the Tolerance Gauge, I sketched out an 8mm by 1mm block and extruded it out 2mm to make the base of the Tolerance Gauge. This acts as a platform for the pillars that I designed to make measurements to test the tolerances. 
 
 Picture: CAD dimensions of the gauges
 
-<img width="1917" height="1020" alt="Lab_4_Tolerance_Gauge" src="https://github.com/user-attachments/assets/70ec75d6-d7e6-4e95-9889-df0767a880df" />
-
-<img width="1917" height="1020" alt="Lab_4_Tolerance_Gauge_Extrusion" src="https://github.com/user-attachments/assets/f9afec52-cd7e-4726-a0b4-912c8b955395" />
+<p align='center'>
+<img width="49.5%" height="1020" alt="Lab_4_Tolerance_Gauge" src="https://github.com/user-attachments/assets/70ec75d6-d7e6-4e95-9889-df0767a880df" />
+<img width="49.5%" height="1020" alt="Lab_4_Tolerance_Gauge_Extrusion" src="https://github.com/user-attachments/assets/f9afec52-cd7e-4726-a0b4-912c8b955395" />
+</p>
 
 For the Tolerance Gauge, I sketched out 5 1mm diameter circles spread out evenly on the top of the base that holds different tolerances ranging from 0.1mm-0.5mm. Then, I extruded the circles 0.5mm out of the base to create the pillars that are used to measure the tolerances. 
 
@@ -48,17 +49,22 @@ This is the Final View of my Tolerance Gauge that I designed to test the 3D prin
 PrusasSlicer:
 
 <img width="2559" height="1470" alt="generic_info" src="https://github.com/user-attachments/assets/d41325f6-83d2-40c7-a2d9-0166cb286628" />
-<img width="1000" height="200" alt="infill_used" src="https://github.com/user-attachments/assets/fa7f9404-18b4-4ff0-849a-3ae305bd9a25" />
+<img width="1010" height="200" alt="infill_used" src="https://github.com/user-attachments/assets/fa7f9404-18b4-4ff0-849a-3ae305bd9a25" />
 
-<img width="4000" height="3000" alt="20260911_091324" src="https://github.com/user-attachments/assets/b755b9e0-5c2d-4ac0-9919-cb63f1ec2d24" />
-
-Start of print:
+Start of Print:
 
 <img width="4000" height="3000" alt="20260911_093616" src="https://github.com/user-attachments/assets/d02420bc-98cf-4433-a461-c33c5c6a9be0" />
 
+End of Print:
+
 <img width="4032" height="3024" alt="IMG_7856 2" src="https://github.com/user-attachments/assets/ba2c1190-c5ab-49e3-bb10-225e4967aba3" />
 
-<img width="4032" height="3024" alt="IMG_7859 2" src="https://github.com/user-attachments/assets/51a13765-c43a-415d-adcf-8110cc5eda3d" />
+Total Print Time:
+
+<p align='center'>
+<img width="49.5%" height="3000" alt="20260911_091324" src="https://github.com/user-attachments/assets/b755b9e0-5c2d-4ac0-9919-cb63f1ec2d24" />
+<img width="49.5%" height="3024" alt="IMG_7859 2" src="https://github.com/user-attachments/assets/51a13765-c43a-415d-adcf-8110cc5eda3d" />
+</p>
 
 ## Preprocessor:
 
@@ -66,25 +72,47 @@ Detail the reasons why you chose the build parameters in the preprocessor. Note 
 
 Why did you choose that infill?
 
+For this project, me and my partner Andy printed our designs together, we agreed on the "Grid" in-fill because it was a simple pattern that didn't affect our benchmark test. The Grid in-fill is a default in-fill pattern that is perfect for many designs. It's a very balanced in-fill that allows for a strong structure while being flexible. 
+
 Why did you choose that build orientation?
+
+For my design, I went based off of the reference model shown on Canvas. It is a simple design that allows us to test for the tolerance placed on our designs. 
 
 Did you use supports? If so, how did you add supports in the software?
 
+For my design, I did not need to use supports. 
+
 Did you need to scale? If so, why and how?
 
+Since I made my design in MMGS instead of IPS, I had to scale my design up to be large enough to test for the tolerances. With this re-scale, my dimensions are different, but it doesn't affect the tolerances placed on each pillar. 
+
 Detail any mistakes throughout the process.
+
+For this test, there were some challenges and mistakes throughout the process. A mistake that I made when designing the Tolerance Gauge was following Design Rules for the Tolerance Benchmark Test. I didn't make the tolerances plus or minus 0.3mm at first, so I had to change this and ensure that my numbers on the pillars matched to the tolerance placed on them. During the print process, I forgot to take a quick video of the print, so I had to restart the print to get a quick video of the print process. Since I had to make changes to my design, I was able to capture a quick video as well as ensure my design was correct. 
 
 ## Print Artifact:
 
 Print the artifact and describe what it tested.
 
+Picture of Printed Artifact:
+
+
+
 Embed a video of the artifact build.
+
+Video: 
+
+
 
 ## Lesson Learned:
 
 Was the outcome different than what you originally thought?
 
+The outcome of the tolerance gauge was exactly what I thought it would be because I've had some experience with 3D printing with a specific tolerance and it was not very accurate with what I needed. When you are dealing with tight tolerances, it is hard for the 3D printer to hold that tolerance and make it as accurate as you want it to be. I believe that it is possible to dial the 3D printer in to be as precise as possible and also make changes to the material and the nozzle to make it print more accurate as well. 
+
 Compare your result to the FDM row of the class design rules chart. Did your result match, exceed, or fall short of the documented spec, and why?
+
+The results exceeded the documented specs of plus or minus 0.3mm. 
 
 Detailed lessons learned and things you would change throughout the process. You should identify a minimum of four things. Be specific, and use articulate engineering, 3D printing, and design language.
 
