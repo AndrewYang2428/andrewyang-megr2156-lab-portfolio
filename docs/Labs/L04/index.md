@@ -93,14 +93,14 @@ For this test, there were some challenges and mistakes throughout the process. A
 ## Print Artifact:
 
 Picture of Printed Artifact:
-
-<img width="3024" height="4032" alt="IMG_7986" src="https://github.com/user-attachments/assets/cbebe20b-ba87-4cbc-b470-830b8dcb5494" />
-
-<img width="3024" height="4032" alt="IMG_7982" src="https://github.com/user-attachments/assets/adf107fc-b8f6-4574-8be1-439b2f7025c0" />
-
-<img width="3024" height="4032" alt="IMG_7984" src="https://github.com/user-attachments/assets/c7da947b-e1c6-4e4d-9a34-05c3ea1b0114" />
-
-<img width="4032" height="3024" alt="IMG_7985" src="https://github.com/user-attachments/assets/fdb0c2cf-d77a-4645-9aa3-641ed6c8fff1" />
+<p align='center'>
+<img width="49.5%" height="4032" alt="IMG_7986" src="https://github.com/user-attachments/assets/cbebe20b-ba87-4cbc-b470-830b8dcb5494" />
+<img width="49.5%" height="4032" alt="IMG_7982" src="https://github.com/user-attachments/assets/adf107fc-b8f6-4574-8be1-439b2f7025c0" />
+</p>
+<p align='center'>
+<img width="49.5%" height="4032" alt="IMG_7984" src="https://github.com/user-attachments/assets/c7da947b-e1c6-4e4d-9a34-05c3ea1b0114" />
+<img width="49.5%" height="4032" alt="IMG_7985" src="https://github.com/user-attachments/assets/fdb0c2cf-d77a-4645-9aa3-641ed6c8fff1" />
+</p>
 
 Video: 
 
