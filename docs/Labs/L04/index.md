@@ -118,7 +118,7 @@ Was the outcome different than what you originally thought?
 
 Compare your result to the FDM row of the class design rules chart. Did your result match, exceed, or fall short of the documented spec, and why?
 
-- The results exceeded the documented specs of plus or minus 0.3mm. 
+- The results exceeded the documented specs of plus or minus 0.3mm. When I scaled the model up to size, it changed the dimensions of the pillars so when using the calipers to get the dimensions, the tolerance could have been changed. Overall, the tolerances were completely different from what I expected it to be, they were all different sizes with different tolerances. 
 
 Detailed lessons learned and things you would change throughout the process. You should identify a minimum of four things. Be specific, and use articulate engineering, 3D printing, and design language.
 
