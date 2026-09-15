@@ -103,8 +103,11 @@ Picture of Printed Artifact:
 </p>
 
 Video: 
-
-
+<div style="text-align: center;">
+  <video width="800" autoplay loop muted playsinline>
+    <source src="Lab_4.mp4" type="video/mp4">
+  </video>
+</div>
 
 ## Lesson Learned:
 
