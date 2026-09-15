@@ -107,10 +107,9 @@ Video:
 
 <img width="800" height="450" alt="Lab_4-ezgif com-optimize" src="https://github.com/user-attachments/assets/540eb492-67f5-44eb-948b-91632d6f41e3" />
 
-## Lesson Learned:
+### Outcome:
 
 <img width="3024" height="4032" alt="IMG_7994" src="https://github.com/user-attachments/assets/1c370d89-88d4-49dc-9fac-597345019c9d" />
-
 
 Was the outcome different than what you originally thought?
 
@@ -119,6 +118,8 @@ Was the outcome different than what you originally thought?
 Compare your result to the FDM row of the class design rules chart. Did your result match, exceed, or fall short of the documented spec, and why?
 
 - The results exceeded the documented specs of plus or minus 0.3mm. When I scaled the model up to size, it changed the dimensions of the pillars so when using the calipers to get the dimensions, the tolerance could have been changed. Overall, the tolerances were completely different from what I expected it to be, they were all different sizes with different tolerances. 
+
+## Lesson Learned:
 
 Detailed lessons learned and things you would change throughout the process. You should identify a minimum of four things. Be specific, and use articulate engineering, 3D printing, and design language.
 
