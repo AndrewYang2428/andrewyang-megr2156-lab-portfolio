@@ -109,6 +109,9 @@ Video:
 
 ## Lesson Learned:
 
+<img width="3024" height="4032" alt="IMG_7994" src="https://github.com/user-attachments/assets/1c370d89-88d4-49dc-9fac-597345019c9d" />
+
+
 Was the outcome different than what you originally thought?
 
 - The outcome of the tolerance gauge was exactly what I thought it would be because I've had some experience with 3D printing with a specific tolerance and it was not very accurate with what I needed. When you are dealing with tight tolerances, it is hard for the 3D printer to hold that tolerance and make it as accurate as you want it to be. I believe that it is possible to dial the 3D printer in to be as precise as possible and also make changes to the material and the nozzle to make it print more accurate as well. 
@@ -123,7 +126,8 @@ Detailed lessons learned and things you would change throughout the process. You
 
 Actual time it took from start to finish.
 
-- This project took me about 6 hours to complete. 
+- This project took me about 6 hours to complete.
+
 ## Resources
 
 [Design Rules for 3D Printing](https://instructure.charlotte.edu/courses/272053/files/33203768?wrap=1)
