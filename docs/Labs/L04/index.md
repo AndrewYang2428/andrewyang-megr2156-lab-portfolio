@@ -99,7 +99,7 @@ Picture of Printed Artifact:
 </p>
 <p align='center'>
 <img width="49.5%" height="4032" alt="IMG_7984" src="https://github.com/user-attachments/assets/c7da947b-e1c6-4e4d-9a34-05c3ea1b0114" />
-<img width="49.5%" height="4032" alt="IMG_7985" src="https://github.com/user-attachments/assets/fdb0c2cf-d77a-4645-9aa3-641ed6c8fff1" />
+<img width="49.5%" height="4032" alt="IMG_7993" src="https://github.com/user-attachments/assets/92c05cd2-5b4e-425f-8913-ad5c6d43b8cc" />
 </p>
 
 Video: 
