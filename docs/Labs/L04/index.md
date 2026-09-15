@@ -51,6 +51,8 @@ PrusasSlicer:
 <img width="2559" height="1470" alt="generic_info" src="https://github.com/user-attachments/assets/d41325f6-83d2-40c7-a2d9-0166cb286628" />
 <img width="1010" height="200" alt="infill_used" src="https://github.com/user-attachments/assets/fa7f9404-18b4-4ff0-849a-3ae305bd9a25" />
 
+This is the view of our designs in PrusasSlicer as well as the filament type and the sliced information. It also shows the in-fill information for this print as well. The information in these images show the settings that we changed and allows for a clear understanding about how we prepped for the print. 
+
 Start of Print:
 
 <img width="4000" height="3000" alt="20260911_093616" src="https://github.com/user-attachments/assets/d02420bc-98cf-4433-a461-c33c5c6a9be0" />
@@ -65,6 +67,8 @@ Total Print Time:
 <img width="49.5%" height="3000" alt="20260911_091324" src="https://github.com/user-attachments/assets/b755b9e0-5c2d-4ac0-9919-cb63f1ec2d24" />
 <img width="49.5%" height="3024" alt="IMG_7859 2" src="https://github.com/user-attachments/assets/51a13765-c43a-415d-adcf-8110cc5eda3d" />
 </p>
+
+Shown in picture on the left is the time stamp for how long the print will take to complete. It also shows the material that will be used for this print displayed at the bottom of the screen. In the picture on the right, it shows the total time to complete the print. It shows the date and time the print started and the date and time the print ended, the consumed material for the print, and the temperature of the printer during the printing process.  
 
 ## Preprocessor:
 
