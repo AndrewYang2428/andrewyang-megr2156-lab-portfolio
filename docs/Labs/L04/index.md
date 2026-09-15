@@ -96,7 +96,7 @@ For this test, there were some challenges and mistakes throughout the process. A
 
 ## Print Artifact:
 
-Picture of Printed Artifact:
+Picture of Printed Tolerance Gauge:
 <p align='center'>
 <img width="49.5%" height="4032" alt="IMG_7986" src="https://github.com/user-attachments/assets/cbebe20b-ba87-4cbc-b470-830b8dcb5494" />
 <img width="49.5%" height="4032" alt="IMG_7982" src="https://github.com/user-attachments/assets/adf107fc-b8f6-4574-8be1-439b2f7025c0" />
@@ -105,6 +105,8 @@ Picture of Printed Artifact:
 <img width="49.5%" height="4032" alt="IMG_7984" src="https://github.com/user-attachments/assets/c7da947b-e1c6-4e4d-9a34-05c3ea1b0114" />
 <img width="49.5%" height="4032" alt="IMG_7993" src="https://github.com/user-attachments/assets/92c05cd2-5b4e-425f-8913-ad5c6d43b8cc" />
 </p>
+
+This shows the final print of the tolerance gauge that I designed for the tolerance test. The pillars shown each have a number that represents the tolerance placed on them. Starting from 1 to 5 the tolerance increases by 0.1mm to 0.5mm. This allows us to test and see where the tolerance is most accurate and where the tolerance gives out. Visually it looks like they are all the same diameter with the same tolerance but once it is measured, each pillar will be able to be distinguished. 
 
 Video: 
 
@@ -125,3 +127,5 @@ Detailed lessons learned and things you would change throughout the process. You
 Actual time it took from start to finish.
 
 ## Resources
+
+[Design Rules for 3D Printing](https://instructure.charlotte.edu/courses/272053/files/33203768?wrap=1)
