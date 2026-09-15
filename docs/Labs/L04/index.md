@@ -72,31 +72,26 @@ Shown in picture on the left is the time stamp for how long the print will take 
 
 ## Preprocessor:
 
-Detail the reasons why you chose the build parameters in the preprocessor. Note the slice information on PrusaSlicer. Some, not all, questions to answer are outlined below to guide your documentation.
-
 Why did you choose that infill?
 
-For this project, me and my partner Andy printed our designs together, we agreed on the "Grid" in-fill because it was a simple pattern that didn't affect our benchmark test. The Grid in-fill is a default in-fill pattern that is perfect for many designs. It's a very balanced in-fill that allows for a strong structure while being flexible. 
+- For this project, me and my partner Andy printed our designs together, we agreed on the "Grid" in-fill because it was a simple pattern that didn't affect our benchmark test. The Grid in-fill is a default in-fill pattern that is perfect for many designs. It's a very balanced in-fill that allows for a strong structure while being flexible. 
 
 Why did you choose that build orientation?
 
-For my design, I went based off of the reference model shown on Canvas. It is a simple design that allows us to test for the tolerance placed on our designs. 
-
-Did you use supports? If so, how did you add supports in the software?
-
-For my design, I did not need to use supports. 
+- For my design, I went based off of the reference model shown on Canvas. It is a simple design that allows us to test for the tolerance placed on our designs. I wanted to focus my design and the printing process based on the pillars to ensure that they came out as precise as possible. I wanted to ensure that the tolerances came out to what I designed them to be so the build orientation was a very important factor to the print process. 
 
 Did you need to scale? If so, why and how?
 
-Since I made my design in MMGS instead of IPS, I had to scale my design up to be large enough to test for the tolerances. With this re-scale, my dimensions are different, but it doesn't affect the tolerances placed on each pillar. 
+- Since I made my design in MMGS instead of IPS, I had to scale my design up to be large enough to test for the tolerances. With this re-scale, my dimensions are different, but it doesn't affect the tolerances placed on each pillar. 
 
 Detail any mistakes throughout the process.
 
-For this test, there were some challenges and mistakes throughout the process. A mistake that I made when designing the Tolerance Gauge was following Design Rules for the Tolerance Benchmark Test. I didn't make the tolerances plus or minus 0.3mm at first, so I had to change this and ensure that my numbers on the pillars matched to the tolerance placed on them. During the print process, I forgot to take a quick video of the print, so I had to restart the print to get a quick video of the print process. Since I had to make changes to my design, I was able to capture a quick video as well as ensure my design was correct. 
+- For this test, there were some challenges and mistakes throughout the process. A mistake that I made when designing the Tolerance Gauge was following Design Rules for the Tolerance Benchmark Test. I didn't make the tolerances plus or minus 0.3mm at first, so I had to change this and ensure that my numbers on the pillars matched to the tolerance placed on them. During the print process, I forgot to take a quick video of the print, so I had to restart the print to get a quick video of the print process. Since I had to make changes to my design, I was able to capture a quick video as well as ensure my design was correct. 
 
 ## Print Artifact:
 
 Picture of Printed Tolerance Gauge:
+
 <p align='center'>
 <img width="49.5%" height="4032" alt="IMG_7986" src="https://github.com/user-attachments/assets/cbebe20b-ba87-4cbc-b470-830b8dcb5494" />
 <img width="49.5%" height="4032" alt="IMG_7982" src="https://github.com/user-attachments/assets/adf107fc-b8f6-4574-8be1-439b2f7025c0" />
@@ -116,16 +111,25 @@ Video:
 
 Was the outcome different than what you originally thought?
 
-The outcome of the tolerance gauge was exactly what I thought it would be because I've had some experience with 3D printing with a specific tolerance and it was not very accurate with what I needed. When you are dealing with tight tolerances, it is hard for the 3D printer to hold that tolerance and make it as accurate as you want it to be. I believe that it is possible to dial the 3D printer in to be as precise as possible and also make changes to the material and the nozzle to make it print more accurate as well. 
+- The outcome of the tolerance gauge was exactly what I thought it would be because I've had some experience with 3D printing with a specific tolerance and it was not very accurate with what I needed. When you are dealing with tight tolerances, it is hard for the 3D printer to hold that tolerance and make it as accurate as you want it to be. I believe that it is possible to dial the 3D printer in to be as precise as possible and also make changes to the material and the nozzle to make it print more accurate as well. 
 
 Compare your result to the FDM row of the class design rules chart. Did your result match, exceed, or fall short of the documented spec, and why?
 
-The results exceeded the documented specs of plus or minus 0.3mm. 
+- The results exceeded the documented specs of plus or minus 0.3mm. 
 
 Detailed lessons learned and things you would change throughout the process. You should identify a minimum of four things. Be specific, and use articulate engineering, 3D printing, and design language.
 
+- For this project, I learned a lot about the 3D printer itself. I learned that the 3D printer has limits and they are only capable of doing so much. For this project I chose to test the 3D printer with the Tolerance Gauge to ensure that the 3D printer was dialed in to hold the tolerance specs placed on the design. I learned that the printer could not hold the tolerance placed in my design. I learned that there are many reasons why a printer can't hold its tolerances and also that there are many ways to ensure that the tolerances are held to what they are designed to be. 
+
 Actual time it took from start to finish.
 
+- This project took me about 6 hours to complete. 
 ## Resources
 
 [Design Rules for 3D Printing](https://instructure.charlotte.edu/courses/272053/files/33203768?wrap=1)
+
+[Website #1](https://3dprinterly.com/how-to-get-the-best-dimensional-accuracy-in-your-3d-prints/#how-to-get-the-best-tolerances--dimensional-accuracy)
+
+[Website #2](https://3dput.com/complete-guide-to-3d-printing-tolerances-and-fit-getting-perfect-clearance-for-moving-parts/)
+
+
