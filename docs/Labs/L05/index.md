@@ -31,9 +31,24 @@ In your documentation answer the following questions and/or apply the statements
 - Detail the decision making process and how you determined the engineered allowances of the interactive parts.
 - Take a picture of the overall design in CAD.
 
+Material: PETG
+Elastic Modulus: 2000 MPa = 290075.48 psi
+Yield Strength: 50MPA = 7251.9 psi
+Safety Factor: 3.5
+Transverse Load: 1lbf
+Axial Load: 5lbf
+Width: 0.1 in
+Thickness: 0.15 in
+Length: 0.9993 in
+
+For my Snap feature, I designed a rough prototype of a buckle or clip that you will see on backpacks and lunchboxes. I created a sketch to get the overall shape of the design and then when I calculated for the length, I completed my design and made specific changes to fit the idea of what I wanted. For this process, there were many trial and errors to get the best fit for the clip. I had to make slight changes throughout the process to make sure that it would fit and clip on correctly. There are two components to this design so when there are changes being made to one component, you have to make sure that the other component will compliment that change. This design required a lot of balancing between the two components. 
+
 ## 3D printing  and Test:
+### Research:
 
 Find one source that discusses how build orientation affects the strength of an FDM printed part. Based on what you find, does your chosen orientation for the flexure line up with what the research recommends for a part under bending load? Explain your answer in a short paragraph in your Research section.
+
+
 
 Show the 3D printing process including the pre-process. Some, not all questions, to answer are outlined below to guide your documentation.
 
@@ -46,6 +61,8 @@ Show the 3D printing process including the pre-process. Some, not all questions,
 - Detail any mistakes throughout the process.
 - Detailed lessoned learned throughout the process, the more detail the better
 - Resources and actual time it took from start to finish
+
+When printing this design, I had to use supports for the second component because it was hollow. To have a smooth print process, I had to use supports on the inside to keep the wall from collapsing in. I decided to use the grid support instead of using the organic or the snug support because I wanted to easily get the supports out without damaging the walls of the cover component. Since this was my first time using supports on a design, I had to figure out how to use the support tool on PrusasSlicer. It was very simple to figure it out, but when I printed out my first part, I didn't add enough supports to hold the top wall, so it caved in after a couple runs. The Clip didn't slide in smoothly either so I had to make some changes to the slot as well to make sure that they fit correctly. 
 
 
 
