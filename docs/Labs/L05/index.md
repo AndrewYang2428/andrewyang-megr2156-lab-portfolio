@@ -7,7 +7,7 @@
 
 ## Modeling:
 
-### Design/Parameters
+### Design/Parameters:
 
 <img width="2598" height="3500" alt="IMG_8052" src="https://github.com/user-attachments/assets/e75f5863-4241-4f43-a0fe-42120563a8e3" />
 
@@ -61,6 +61,7 @@ The "Snap" fixture has many components because I had to build it around the Clip
 <img width="49.5%" height="1020" alt="Snap_Slot2_Sketch" src="https://github.com/user-attachments/assets/ab6f4156-228f-440c-8b62-3f74977e7824" />
 
 <img width="49.5%" height="1020" alt="Snap_Sketch2_Extrusion" src="https://github.com/user-attachments/assets/45976e9b-687d-46c2-9c26-bc0609224d7e" />
+</p>
 
 #### Side Slot:
 
