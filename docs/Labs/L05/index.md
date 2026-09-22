@@ -1,8 +1,21 @@
 # A5 – Lab #5: Design a Snap Fit
 
+<p align='center'>
+<img width="49.5%" height="450" alt="Clip" src="https://github.com/user-attachments/assets/bf3d8599-ec51-48b0-abbd-ebabf9fa020a" />
+<img width="49.5%" height="450" alt="Snap" src="https://github.com/user-attachments/assets/82348726-ed1b-45f7-bc6a-62951a163ea3" />
+</p>
+
 ## Modeling:
 
 Picture: Design/Parameeters
+
+<img width="2598" height="3500" alt="IMG_8052" src="https://github.com/user-attachments/assets/e75f5863-4241-4f43-a0fe-42120563a8e3" />
+
+For my Snap feature, I designed a rough prototype of a buckle or clip that you will see on backpacks and lunchboxes. I created a sketch to get the overall shape of the design, and then when I calculated the length, I completed my design and made specific changes to fit the idea of what I wanted. For this process, there were many trials and errors to get the best fit for the clip. I had to make slight changes throughout the process to make sure that it would fit and clip on correctly. There are two components to this design, so when there are changes being made to one component, you have to make sure that the other component will complement that change. This design required a lot of balancing between the two components.
+
+The main design for this assignment was the Clip. For the Clip, I designed 2 forks that had hooks on the end of them to clip and hold onto the fixture that I designed for it. These 2 forks were 0.10 in. wide, .15 in. thick, and the length of it was calculated to be 0.993 in. The middle fork acted as an alignment pin to ensure that the clip was oriented correctly and was in place when fully clipped in. 
+
+I chose these parameters after creating a rough sketch of what I wanted my design to look like; this allowed me to choose parameters that suited my design best. When coming up with a design to meet a specific criterion, I feel that it is best to understand what will be expected of the design, create a rough sketch of a design that you want or that will best fit the criteria, and then build your parameters around what you have designed. I feel that this allows you to have the freedom to create something that you believe will work best for what is expected. It also allows for more creativity because there are no restrictions or limits that are in place. 
 
 ## Parametric design:
 
@@ -89,12 +102,6 @@ Width: 0.1 in
 Thickness: 0.15 in
 Length: 0.9993 in
 
-For my Snap feature, I designed a rough prototype of a buckle or clip that you will see on backpacks and lunchboxes. I created a sketch to get the overall shape of the design, and then when I calculated the length, I completed my design and made specific changes to fit the idea of what I wanted. For this process, there were many trials and errors to get the best fit for the clip. I had to make slight changes throughout the process to make sure that it would fit and clip on correctly. There are two components to this design, so when there are changes being made to one component, you have to make sure that the other component will complement that change. This design required a lot of balancing between the two components.
-
-The main design for this assignment was the Clip. For the Clip, I designed 2 forks that had hooks on the end of them to clip and hold onto the fixture that I designed for it. These 2 forks were 0.10 in. wide, .15 in. thick, and the length of it was calculated to be 0.993 in. The middle fork acted as an alignment pin to ensure that the clip was oriented correctly and was in place when fully clipped in. 
-
-I chose these parameters after creating a rough sketch of what I wanted my design to look like; this allowed me to choose parameters that suited my design best. When coming up with a design to meet a specific criterion, I feel that it is best to understand what will be expected of the design, create a rough sketch of a design that you want or that will best fit the criteria, and then build your parameters around what you have designed. I feel that this allows you to have the freedom to create something that you believe will work best for what is expected. It also allows for more creativity because there are no restrictions or limits that are in place. 
-
 ## 3D printing  and Test:
 
 Picture: PrusaSlicer
@@ -141,7 +148,9 @@ Picture: Print Time
 
 Video:
 
-
+<p align='center'>
+<img width="1000" height="500" alt="Lab5_Video" src="https://github.com/user-attachments/assets/4d462064-6ec7-416b-a7bb-d86a54de2aeb" />
+</p>
 
 Show the 3D printing process including the pre-process. Some, not all questions, to answer are outlined below to guide your documentation.
 
@@ -155,7 +164,7 @@ Show the 3D printing process including the pre-process. Some, not all questions,
 - Detailed lessoned learned throughout the process, the more detail the better
 - Resources and actual time it took from start to finish
 
-When printing this design, I had to use supports for the second component because it was hollow. To have a smooth print process, I had to use supports on the inside to keep the wall from collapsing in. I decided to use the grid support instead of using the organic or the snug support because I wanted to easily get the supports out without damaging the walls of the cover component. Since this was my first time using supports on a design, I had to figure out how to use the support tool on PrusaSlicer. It was very simple to figure it out, but when I printed out my first part, I didn't add enough supports to hold the top wall, so it caved in after a couple of runs. The Clip didn't slide in smoothly either, so I had to make some changes to the slot as well to make sure that they fit correctly. 
+When printing this design, I had to use supports for the second component because it was hollow. To keep the print smooth, I used supports on the inside to keep the wall from collapsing in. I chose grid support instead of organic or snug support because I wanted to remove the supports easily without damaging the walls of the cover component. Since this was my first time using supports on a design, I had to figure out how to use the support tool on PrusaSlicer. It was very simple to figure it out, but when I printed out my first part, I didn't add enough supports to hold the top wall, so it caved in after a couple of runs. The Clip didn't slide in smoothly either, so I had to make some changes to the slot as well to make sure that they fit correctly. 
 
 ## Research:
 
