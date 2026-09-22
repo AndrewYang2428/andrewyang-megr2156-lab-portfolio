@@ -43,42 +43,47 @@ The "Snap" fixture has many components because I had to build it around the Clip
 
 <p align='center'>
 <img width="1917" height="1021" alt="Snap_View" src="https://github.com/user-attachments/assets/2ba3bf7a-4f3f-429e-8117-22971819afdd" />
+</p>
 
 #### Outer Shell: 
 
+<p align='center'>
 <img width="49.5%" height="1021" alt="Snap_Sketch" src="https://github.com/user-attachments/assets/46e37a45-ed2d-4a89-97a4-e0b3388d1667" />
-
 <img width="49.5%" height="1020" alt="Snap_Extrusion" src="https://github.com/user-attachments/assets/24119e57-ad66-497b-a4cf-fe65578c6b34" />
+</p>
 
 #### Inner Slot:
 
+<p align='center'>
 <img width="49.5%" height="1020" alt="Snap_Slot_Sketch" src="https://github.com/user-attachments/assets/f8aab89b-af8e-4c05-8a49-2a299399a819" />
-
 <img width="49.5%" height="1020" alt="Snap_Slot_Extrusion" src="https://github.com/user-attachments/assets/bac1f6c9-7c51-4020-acb1-175fd08f955d" />
+</p>
 
 #### Center Slot:
 
+<p align='center'>
 <img width="49.5%" height="1020" alt="Snap_Slot2_Sketch" src="https://github.com/user-attachments/assets/ab6f4156-228f-440c-8b62-3f74977e7824" />
-
 <img width="49.5%" height="1020" alt="Snap_Sketch2_Extrusion" src="https://github.com/user-attachments/assets/45976e9b-687d-46c2-9c26-bc0609224d7e" />
 </p>
 
 #### Side Slot:
 
+<p align='center'>
 <img width="49.5%" height="1007" alt="Snap_Slot3_Sketch" src="https://github.com/user-attachments/assets/37343506-025a-443c-9604-b5b62c15892a" />
-
 <img width="49.5%" height="1020" alt="Snap_Slot2_Extrusion" src="https://github.com/user-attachments/assets/0fa66ef9-bbb3-4b11-874d-4f73673e1956" />
-
+</p>
+  
 #### Circular Cut:
 
+<p align='center'>
 <img width="49.5%" height="1016" alt="Snap_Cut_Sketch" src="https://github.com/user-attachments/assets/e551d530-d8da-45d9-97d0-3532be9fa2f3" />
-
 <img width="49.5%" height="1015" alt="Snap_Cut_Extrusion" src="https://github.com/user-attachments/assets/7ef398b0-4b4c-43d5-99bc-d462a07a2025" />
+</p>
 
 #### Sliders:
 
+<p align='center'>
 <img width="49.5%" height="1020" alt="Snap_Slide_Sketch" src="https://github.com/user-attachments/assets/9ac7dd6c-c67d-402c-b6b5-140a5be0ebf9" />
-
 <img width="49.5%" height="1012" alt="Snap_Slide_Extrusion" src="https://github.com/user-attachments/assets/4f19d280-7535-47dd-a66f-1e1735e32fd1" />
 </p>
 
