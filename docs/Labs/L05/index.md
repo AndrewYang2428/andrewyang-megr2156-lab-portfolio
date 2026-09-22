@@ -7,7 +7,7 @@
 
 ## Modeling:
 
-### Design/Parameeters
+### Design/Parameters
 
 <img width="2598" height="3500" alt="IMG_8052" src="https://github.com/user-attachments/assets/e75f5863-4241-4f43-a0fe-42120563a8e3" />
 
