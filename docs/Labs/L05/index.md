@@ -22,7 +22,6 @@ Use parametric design where appropriate.
 
 Digitally sketch in CAD your design using the dimensions design in the first step.
 
-In your documentation answer the following questions and/or apply the statements to your work.
 - What are the parameters used?
 - Why did you choose the specific parameters?
 - What values did you choose for the specific parameters?
@@ -41,14 +40,13 @@ Width: 0.1 in
 Thickness: 0.15 in
 Length: 0.9993 in
 
-For my Snap feature, I designed a rough prototype of a buckle or clip that you will see on backpacks and lunchboxes. I created a sketch to get the overall shape of the design and then when I calculated for the length, I completed my design and made specific changes to fit the idea of what I wanted. For this process, there were many trial and errors to get the best fit for the clip. I had to make slight changes throughout the process to make sure that it would fit and clip on correctly. There are two components to this design so when there are changes being made to one component, you have to make sure that the other component will compliment that change. This design required a lot of balancing between the two components. 
+For my Snap feature, I designed a rough prototype of a buckle or clip that you will see on backpacks and lunchboxes. I created a sketch to get the overall shape of the design and then when I calculated for the length, I completed my design and made specific changes to fit the idea of what I wanted. For this process, there were many trial and errors to get the best fit for the clip. I had to make slight changes throughout the process to make sure that it would fit and clip on correctly. There are two components to this design so when there are changes being made to one component, you have to make sure that the other component will compliment that change. This design required a lot of balancing between the two components.
+
+The main design for this assignment was the Clip. For the Clip, I designed 2 forks that had hooks on the end of them to clip and hold onto the fixture that I designed for it. These 2 forks were 0.10in wide, .15in thick, and the length of it was calculated to be 0.993in. The middle fork acted as an alignment pin to ensure that the clip was oriented correctly and was in place when fully clipped in. 
+
+I chose these parameters after creating a rough sketch of what I wanted my design to look like; this allowed me to choose parameters that suited my design best. When coming up with a design to meet a specific criterion, I feel that it is best to understand what will be expected of the design, create a rough sketch of a design that you want or that will best fit the criteria, and then building your parameters around what you have designed. I feel that this allows you have the freedom to create something that you believe will work best for what is expected. It also allows for more creativity because there are no restrictions or limits that are in place. 
 
 ## 3D printing  and Test:
-### Research:
-
-Find one source that discusses how build orientation affects the strength of an FDM printed part. Based on what you find, does your chosen orientation for the flexure line up with what the research recommends for a part under bending load? Explain your answer in a short paragraph in your Research section.
-
-
 
 Show the 3D printing process including the pre-process. Some, not all questions, to answer are outlined below to guide your documentation.
 
@@ -64,6 +62,16 @@ Show the 3D printing process including the pre-process. Some, not all questions,
 
 When printing this design, I had to use supports for the second component because it was hollow. To have a smooth print process, I had to use supports on the inside to keep the wall from collapsing in. I decided to use the grid support instead of using the organic or the snug support because I wanted to easily get the supports out without damaging the walls of the cover component. Since this was my first time using supports on a design, I had to figure out how to use the support tool on PrusasSlicer. It was very simple to figure it out, but when I printed out my first part, I didn't add enough supports to hold the top wall, so it caved in after a couple runs. The Clip didn't slide in smoothly either so I had to make some changes to the slot as well to make sure that they fit correctly. 
 
+## Research:
 
+Find one source that discusses how build orientation affects the strength of an FDM printed part. Based on what you find, does your chosen orientation for the flexure line up with what the research recommends for a part under bending load? Explain your answer in a short paragraph in your Research section.
+
+Based on what I have researched, the orientation that is chosen has a great effect on the design and its physical properties. When orienting your design, it is important to find the best orientation to get the results that you want. For my design, I oriented my design to the best ability to keep most of its physical properties as well as being supported properly. This allowed my print to come out pretty well and be able to withstand the different forces that will be applied to the part to fulfill the snap feature. The shell lines run along the length of the bend, which helps improve the strength and reduces the risk of layer separation. Overall, I oriented my design correctly to get the best results for my part. I used supports in my design to get the shape that I needed and I placed them in the correct way for the layers to be lined correctly to not have any defects. 
+
+Website #1: [https://cc3dlabs.com/print-orientation-in-3d-printing-a-practical-guide/](https://cc3dlabs.com/print-orientation-in-3d-printing-a-practical-guide/)
+
+Website #2: [https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)
+
+## Lessons Learned:
 
 
