@@ -7,7 +7,7 @@
 
 ## Modeling:
 
-Picture: Design/Parameeters
+### Design/Parameeters
 
 <img width="2598" height="3500" alt="IMG_8052" src="https://github.com/user-attachments/assets/e75f5863-4241-4f43-a0fe-42120563a8e3" />
 
@@ -19,7 +19,7 @@ I chose these parameters after creating a rough sketch of what I wanted my desig
 
 ## Parametric design:
 
-Picture: Clip
+### Clip Fixture:
 
 <p align='center'>
 <img width="1917" height="1017" alt="Clip_View" src="https://github.com/user-attachments/assets/c8e49bea-7ad9-4d71-b72b-9c248ab2759e" />
@@ -33,106 +33,104 @@ Picture: Clip
 <img width="49.5%" height="1020" alt="Clip_Base_Extrusion" src="https://github.com/user-attachments/assets/b62ef987-2d8a-4173-85e2-aba0546fc2a5" />
 </p>
 
-Picture: Snap
+This is the "Clip" design that I came up with for my Snap Fit project. In these pictures, it shows the view of the sketch and the extrusion with the parameters that I had for the forks that are used to "snap the clip in place. The forks on the ends have hooks on the end of them that will be used to clip it in place, while the middle fork acts as an alignment pin to ensure that the clip is in the correct orientation and in place correctly. I also created a base for the clip to give it a better look when it is clipped altogether. It holds the clip fixture onto it to have a better grip on it when putting the clip together. 
+
+### Snap Fixture:
+
+#### Overview:
+
+The "Snap" fixture has many components to it because I had to build it around the Clip fixture. For this "Snap" fixture, I designed a box that the Clip will slip into and then it will be snapped in place. I designed many features that allows the Clip to slide in place smoothly without having to be forced in place. Inside of this "Snap", I extruded an angled ramp so when we press the Clip in, it will push the forks inward to allow us to press the Clip in smoothly. The slots on the sides allows for the forks to come out and snap onto the fixture and it also allows us to press the forks in to get the Clip back out. 
 
 <p align='center'>
 <img width="1917" height="1021" alt="Snap_View" src="https://github.com/user-attachments/assets/2ba3bf7a-4f3f-429e-8117-22971819afdd" />
 
-Outer Shell: 
+#### Outer Shell: 
 
 <img width="49.5%" height="1021" alt="Snap_Sketch" src="https://github.com/user-attachments/assets/46e37a45-ed2d-4a89-97a4-e0b3388d1667" />
 
 <img width="49.5%" height="1020" alt="Snap_Extrusion" src="https://github.com/user-attachments/assets/24119e57-ad66-497b-a4cf-fe65578c6b34" />
 
-Inner Slot:
+#### Inner Slot:
 
 <img width="49.5%" height="1020" alt="Snap_Slot_Sketch" src="https://github.com/user-attachments/assets/f8aab89b-af8e-4c05-8a49-2a299399a819" />
 
 <img width="49.5%" height="1020" alt="Snap_Slot_Extrusion" src="https://github.com/user-attachments/assets/bac1f6c9-7c51-4020-acb1-175fd08f955d" />
 
-Center Slot:
+#### Center Slot:
 
 <img width="49.5%" height="1020" alt="Snap_Slot2_Sketch" src="https://github.com/user-attachments/assets/ab6f4156-228f-440c-8b62-3f74977e7824" />
 
 <img width="49.5%" height="1020" alt="Snap_Sketch2_Extrusion" src="https://github.com/user-attachments/assets/45976e9b-687d-46c2-9c26-bc0609224d7e" />
 
-Side Slot:
+#### Side Slot:
 
 <img width="49.5%" height="1007" alt="Snap_Slot3_Sketch" src="https://github.com/user-attachments/assets/37343506-025a-443c-9604-b5b62c15892a" />
 
 <img width="49.5%" height="1020" alt="Snap_Slot2_Extrusion" src="https://github.com/user-attachments/assets/0fa66ef9-bbb3-4b11-874d-4f73673e1956" />
 
-Circular Cut:
+#### Circular Cut:
 
 <img width="49.5%" height="1016" alt="Snap_Cut_Sketch" src="https://github.com/user-attachments/assets/e551d530-d8da-45d9-97d0-3532be9fa2f3" />
 
 <img width="49.5%" height="1015" alt="Snap_Cut_Extrusion" src="https://github.com/user-attachments/assets/7ef398b0-4b4c-43d5-99bc-d462a07a2025" />
 
-Sliders:
+#### Sliders:
 
 <img width="49.5%" height="1020" alt="Snap_Slide_Sketch" src="https://github.com/user-attachments/assets/9ac7dd6c-c67d-402c-b6b5-140a5be0ebf9" />
 
 <img width="49.5%" height="1012" alt="Snap_Slide_Extrusion" src="https://github.com/user-attachments/assets/4f19d280-7535-47dd-a66f-1e1735e32fd1" />
 </p>
 
-Picture: Assembly
+### Clip and Snap Assembly:
 
 <img width="1917" height="1020" alt="Clip_Snap_Assembly" src="https://github.com/user-attachments/assets/8fcc1272-dae5-4b2d-bb0b-c138f2ffac25" />
 
+This is a picture of the assembly that I created in SolidWorks for the "Clip" and "Snap" fixture that I designed. This assembly allowed me to test the two pieces and put them together to see if they would fit together if I were to put them together. This assembly was very helpful for me in this process because it helped me make changes on both fixtures to ensure that they had a good fit when I printed them out. As usual as this assembly was, I also had to take in consideration the material properties and how much it would expand when it is heated up. With this, I had to make sure that there was wiggle room for the Clip to fit inside the "Snap" fixture. This assembly was a very useful aspect of this project because it helped me make changes before I actually printed, so there were less trial and error during the print process.
 
-Use parametric design where appropriate.
+## 3D Printing and Tests:
 
-Digitally sketch in CAD your design using the dimensions design in the first step.
-
-- What are the parameters used?
-- Why did you choose the specific parameters?
-- What values did you choose for the specific parameters?
-- Did the values change throughout the process? If so, why?
-- Take many pictures of the different stages of the CAD model.
-- Detail the decision making process and how you determined the engineered allowances of the interactive parts.
-- Take a picture of the overall design in CAD.
-
-Material: PETG
-Elastic Modulus: 2000 MPa = 290075.48 psi
-Yield Strength: 50MPA = 7251.9 psi
-Safety Factor: 3.5
-Transverse Load: 1lbf
-Axial Load: 5lbf
-Width: 0.1 in
-Thickness: 0.15 in
-Length: 0.9993 in
-
-## 3D printing  and Test:
-
-Picture: PrusaSlicer
+### PrusaSlicer:
 
 <img width="1917" height="1021" alt="Clip_Snap_Info" src="https://github.com/user-attachments/assets/c38b6aa8-cae9-43b6-b689-ca73459455f3" />
 
-Picture: Infill Info
+In PrusaSlicer, I scaled these two pieces up so it would be easier to demonstrate the snap fit. The Sliced information is shown at the bottom as well as the scale. For this print, it showed that it would take about 52-58 minutes. 
+
+### Infill Info:
 
 <img width="1917" height="1021" alt="infill_Info" src="https://github.com/user-attachments/assets/d80f7ff1-3e5f-4c0b-8e6a-d82985a623c4" />
 
-Picture: Support Layer
+I kept the in-fill information simple because I wanted the forks to be flexible but also strong enough to hold its physical properties so I chose the Grid in-fill pattern and kept the in-fill at 15%. I wnated the forks to be strong enough to not snap when it was pushed together but also flexible enough to bend and move into place with the force applied.
+
+### Support Layer:
 
 <img width="1917" height="1021" alt="Support_info" src="https://github.com/user-attachments/assets/484768dc-7c9a-49a2-b8b4-ff23d92df5bb" />
 
-Picture: Support Layout
+The support I chose was the Grid support pattern. I chose this pattern instead of the other patterns because I was afraid of the supports getting stuck in the inside of the "Snap" fixture, so I chose the one that I thought would be easy to get out. This support was pretty easy for me to get out without having to dig through and breaking any of the properties of the "Clip" or the "Snap" fixtures. 
 
-<img width="4032" height="3024" alt="IMG_8028" src="https://github.com/user-attachments/assets/a6d60baf-1853-4f7e-8120-5ce9d712ef50" />
+### Support Layout:
 
-Picture: First Layer
+<p align='center'>
+<img width="49.5%" height="1000" alt="Support Pic" src="https://github.com/user-attachments/assets/6d533cea-c54c-4460-ad90-c85dc967681b" />
+<img width="49.5%" height="3024" alt="IMG_8028" src="https://github.com/user-attachments/assets/a6d60baf-1853-4f7e-8120-5ce9d712ef50" />
+</p>
+
+### First Layer:
 
 <img width="4032" height="3024" alt="IMG_8037" src="https://github.com/user-attachments/assets/955eba94-863e-4394-82bc-3cb91eaffa47" />
 
-Picture: Support Structure
+### Support Structure:
 
 <img width="4032" height="3024" alt="IMG_8040" src="https://github.com/user-attachments/assets/ec049e93-960e-479d-befa-d3486254cbdc" />
 
-Picture: Top Layer + Infill
+### Top Layer + Infill:
 
 <img width="4032" height="3024" alt="IMG_8049" src="https://github.com/user-attachments/assets/95ad9dff-8263-49df-a897-330bd30e454c" />
 
-Picture: Final Product
+### Print Time
+
+<img width="4032" height="3024" alt="IMG_8051" src="https://github.com/user-attachments/assets/a20323a9-e635-48a4-9d1d-09c03e2c8c94" />
+
+## Final Product:
 
 <p align='center'>
 <img width="49.5%" height="3024" alt="IMG_8056" src="https://github.com/user-attachments/assets/22edfbd7-71e5-428e-91e5-d0d96a5271eb" />
@@ -141,30 +139,11 @@ Picture: Final Product
 <img width="49.5%" height="3024" alt="IMG_8055" src="https://github.com/user-attachments/assets/b69c9252-2380-4907-8ae7-c8a40ae1413b" />
 </p>
 
-
-Picture: Print Time
-
-<img width="4032" height="3024" alt="IMG_8051" src="https://github.com/user-attachments/assets/a20323a9-e635-48a4-9d1d-09c03e2c8c94" />
-
-Video:
+## Video:
 
 <p align='center'>
 <img width="1000" height="500" alt="Lab5_Video" src="https://github.com/user-attachments/assets/4d462064-6ec7-416b-a7bb-d86a54de2aeb" />
 </p>
-
-Show the 3D printing process including the pre-process. Some, not all questions, to answer are outlined below to guide your documentation.
-
-- Outline reasons for the pre-processor layout.
-- Change the support default to organic, paint on support, or snug.
-- Reason why you chose one of the support systems.
-- Outline reasons for build orientation.
-- Outline slicer settings and reasons for the settings.
-- If you use supports, outline the reasons.
-- Detail any mistakes throughout the process.
-- Detailed lessoned learned throughout the process, the more detail the better
-- Resources and actual time it took from start to finish
-
-When printing this design, I had to use supports for the second component because it was hollow. To keep the print smooth, I used supports on the inside to keep the wall from collapsing in. I chose grid support instead of organic or snug support because I wanted to remove the supports easily without damaging the walls of the cover component. Since this was my first time using supports on a design, I had to figure out how to use the support tool on PrusaSlicer. It was very simple to figure it out, but when I printed out my first part, I didn't add enough supports to hold the top wall, so it caved in after a couple of runs. The Clip didn't slide in smoothly either, so I had to make some changes to the slot as well to make sure that they fit correctly. 
 
 ## Research:
 
@@ -178,4 +157,4 @@ Website #2: [https://www.hubs.com/knowledge-base/how-does-part-orientation-affec
 
 ## Lessons Learned:
 
-
+For this project, I learned a lot about the physical properties of materials have a great impact on how you create a design. With the parameters that were given, I had to learn and really understand how to solve an equation and apply it to the design that was created. When you are able to design something and make calculations based on the parameters and material properties, and ensure that they all are aligned with each other, it is satisfying to see that I am able to apply theory into real world problems and come to a solution. I used SolidWorks for the assembly, which was new to me as well, so I am slowly learning more about SolidWorks and the tools that it has to offer for projects like this one. I learned that the orientation of your print has a huge impact on how your print will turn out because it can affect the physical properties of the material as well as affect the dimensions and tolerances that are placed on the design. It is important to orient your design in the best way possible to ensure that your print comes out the way that you want it to. This will eliminate the amount of time spent on the printing or reprinting your part and it ensures that your dimensions and tolerances are in spec to what is expected. The most important thing that I learned was that depending on your design, supports are a very important aspect to include in your print, especially if there are overhangs. Supports are exactly what they are, they are supports that allows your part to be printed out smoothly without having any sagging of material. Supports also need to be oriented in the right way so that when you print your part, it comes out smoothly without any issues. Orientation has a great impact on the way your part is printed out, so it is important to not skip out on this part when printing out your design. 
