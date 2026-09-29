@@ -15,23 +15,30 @@
 
 ### Rough Sketch:
 
-### Measurements:
 
 ### Motor Mount Sketch:
 
+
 ### Motor Mount Extrusion:
+
 
 ### Motor Mount Cut-Out:
 
+
 ### Motor Mount Snap Mechanism:
+
 
 ### Snap Sketch:
 
+
 ### Snap Extrusion:
+
 
 ### Snap Cut-Out: 
 
+
 ### Snap Feature:
+
 
 ## Documentation:
 
