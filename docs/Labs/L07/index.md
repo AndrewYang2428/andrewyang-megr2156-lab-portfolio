@@ -1,13 +1,10 @@
-# A7 – [Topic]
+# A7 – Linkage Mechanism
 
-## Objective
+## Research:
 
+## Design:
 
-## Analyze
+## 3D Print:
 
-
-## Decide
-
-
-## Communicate
+## Lessons Learned:
 
