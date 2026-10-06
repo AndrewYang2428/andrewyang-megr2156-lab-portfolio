@@ -41,17 +41,66 @@ Sliding Bracket:
 
 <img width="1917" height="1020" alt="Sliding_Bracket" src="https://github.com/user-attachments/assets/62e234c6-a74a-4baa-8a7d-63835ddad69d" />
 
+<p align='center'>
+<img width="49.5%" height="1020" alt="Sliding_Bracket_Sketch" src="https://github.com/user-attachments/assets/fc4b7d3a-5a38-4ef6-a44c-9efe8caa88b2" />
+<img width="49.5%" height="1020" alt="Sliding_Bracket_Extrusion" src="https://github.com/user-attachments/assets/076733ac-842f-42b6-9c6e-5aa346efad98" />
+<img width="49.5%" height="1020" alt="Sliding_Braket_Cut_Sketch" src="https://github.com/user-attachments/assets/be3ee1cb-0cb2-46b4-8888-7f20acb2bad7" />
+<img width="49.5%" height="1017" alt="Sliding_Bracket_Cut_Extrusion" src="https://github.com/user-attachments/assets/0c89a765-d0cf-4f2e-a833-6557e23615a5" />
+<img width="49.5%" height="1020" alt="Sliding_Bracket_Snap_Sketch" src="https://github.com/user-attachments/assets/1f7c632b-0a2e-4439-8422-d5f406691bd3" />
+<img width="49.5%" height="1020" alt="Sliding_Bracket_Snap_Extrusion" src="https://github.com/user-attachments/assets/d7b68870-d260-4bf3-ac1d-7ad9ec46ccc8" />
+<img width="49.5%" height="1020" alt="Sliding_Bracket_Snap_Sketch2" src="https://github.com/user-attachments/assets/71130797-1472-46d5-b279-e8c6564743c9" />
+<img width="49.5%" height="1017" alt="Sliding_Bracket_Snap_Extrusion2" src="https://github.com/user-attachments/assets/810e0988-ef60-4252-8a39-313f014aeed1" />
+<img width="49.5%" height="1020" alt="Sliding_Bracket_Snap_Draft" src="https://github.com/user-attachments/assets/7e38128f-dcf9-4c85-b611-2484d5b42c05" />
+<img width="49.5%" height="1020" alt="Sliding_Bracket_Snap_Cutout" src="https://github.com/user-attachments/assets/ef03bfa3-39c4-4332-beda-b2044a06440d" />
+<img width="49.5%" height="1020" alt="Sliding_Bracket_Snap_Cut_Extrusion" src="https://github.com/user-attachments/assets/4eff0012-c7d6-46ce-bf51-1b37f3a6cb62" />
+</p>
+
 Slider:
 
 <img width="1917" height="1017" alt="Slider" src="https://github.com/user-attachments/assets/9fa6e930-2506-42fd-a33a-876d41441e85" />
+<p align='center'>
+<img width="49.5%" height="1020" alt="Slider_Sketch" src="https://github.com/user-attachments/assets/53a989f1-a84b-40d6-8a71-427ba3f72ea7" />
+<img width="49.5%" height="1021" alt="Slider_Extrusion" src="https://github.com/user-attachments/assets/e08c1032-cbab-4aee-bf83-2f706ff82207" />
+<img width="49.5%" height="1020" alt="Slider_Cut" src="https://github.com/user-attachments/assets/c0bb6bba-ada6-417c-9c28-7676abb324a8" />
+<img width="49.5%" height="1020" alt="Slider_Cut_Extrusion" src="https://github.com/user-attachments/assets/571cd0b3-b6d5-4cd9-b9df-39af4948ba55" />
+</p>
 
 Wheel:
 
 <img width="1917" height="1020" alt="Wheel" src="https://github.com/user-attachments/assets/088f0390-73a1-47d8-8032-301fd6f20c6d" />
 
+<p align='center'>
+<img width="49.5%" height="1017" alt="Wheel_Sketch" src="https://github.com/user-attachments/assets/5d32645d-e619-45b3-9ddf-fce0a2996553" />
+<img width="49.5%" height="1017" alt="Wheel_Extrusion" src="https://github.com/user-attachments/assets/4c5fb90e-0818-4513-bb23-2d14ad9010c6" />
+<img width="49.5%" height="1017" alt="Wheel_Pin_Sketch" src="https://github.com/user-attachments/assets/d5208e1e-bba6-47e6-a4b5-53b6d0921338" />
+<img width="49.5%" height="1020" alt="Wheel_Pin_Extrusion" src="https://github.com/user-attachments/assets/f4f9b24f-775a-410b-9110-d00989625f55" />
+<img width="49.5%" height="1017" alt="Wheel_Snap_Sketch" src="https://github.com/user-attachments/assets/6db4c355-1166-4fad-b43d-6456013e31f4" />
+<img width="49.5%" height="1020" alt="Wheel_Snap_Extrusion" src="https://github.com/user-attachments/assets/0c4d2079-9b14-4dea-b044-f19228eef320" />
+<img width="49.5%" height="1020" alt="Wheel_Snap_Draft" src="https://github.com/user-attachments/assets/869fbdfa-8e28-4397-849e-e0550987bb06" />
+<img width="49.5%" height="1020" alt="Wheel_Snap_Cut" src="https://github.com/user-attachments/assets/f275d0ef-a04e-4e33-b3e8-c536dd4af8c6" />
+<img width="49.5%" height="1020" alt="Wheel_Snap_Cut_Extrusion" src="https://github.com/user-attachments/assets/dec71f84-e1ad-4430-8ed8-8a960be0016e" />
+<img width="49.5%" height="1020" alt="Wheel_Cutout" src="https://github.com/user-attachments/assets/a16fb810-edb3-4c53-8b2e-f73fb6b89cbe" />
+</p>
+
 Linkage:
 
 <img width="1917" height="1020" alt="Linkage" src="https://github.com/user-attachments/assets/b0b370e0-756c-49e4-92d1-886eca40c04f" />
+
+<p align='center'>
+<img width="49.5%" height="1020" alt="Linkage_Sketch" src="https://github.com/user-attachments/assets/c9ddd506-1832-4abd-8d39-beaf02cce2c5" />
+<img width="49.5%" height="1020" alt="Linkage_Extrusion" src="https://github.com/user-attachments/assets/f065aae7-937a-4bdd-a3a2-b34cf9e42e88" />
+<img width="49.5%" height="1020" alt="Linkage-Hole_Sketch" src="https://github.com/user-attachments/assets/7c4c2921-fcf1-4858-9cb4-e6f64d7a9c29" />
+<img width="49.5%" height="1021" alt="Linkage_Hole_Extrusion" src="https://github.com/user-attachments/assets/7a71c45a-bd88-469b-a5d0-dbf78fd5ef81" />
+<img width="49.5%" height="1017" alt="Linkage_Extenstion_Sketch" src="https://github.com/user-attachments/assets/227c0116-d647-418c-b009-9c5dee739d80" />
+<img width="49.5%" height="1017" alt="Linkage_Extention_Extrusion" src="https://github.com/user-attachments/assets/23d8aa4b-76a1-4360-819e-8bf3535d251c" />
+<img width="49.5%" height="1017" alt="Linkage_Snap_Sketch" src="https://github.com/user-attachments/assets/564cd4ca-92bb-4d7c-841c-6fc37167e30f" />
+<img width="49.5%" height="1017" alt="Linkage_Snap_Extrusion" src="https://github.com/user-attachments/assets/7f9408c7-a7f6-4b25-bbbc-32ac1e2cadb2" />
+<img width="49.5%" height="1017" alt="Linkage_Snap_Sketch2" src="https://github.com/user-attachments/assets/acdcef1d-747a-4c88-ab93-9a830fad3e1e" />
+<img width="49.5%" height="1020" alt="Linkage_Snap_Extrusion2" src="https://github.com/user-attachments/assets/e55d8dec-26fd-49e3-8c23-cdc50edc141b" />
+<img width="49.5%" height="1021" alt="Linkage_Snap_Draft" src="https://github.com/user-attachments/assets/95e6d906-fb6d-4599-bd54-11fa9f89cdf8" />
+<img width="49.5%" height="1020" alt="Linkage_Snap_Cutout_Sketch" src="https://github.com/user-attachments/assets/f7d47c24-4240-443e-80d6-47b8689987b3" />
+<img width="49.5%" height="1020" alt="Linkage_Snap_Coutout_Extrusion" src="https://github.com/user-attachments/assets/74d13724-6d6f-4fa6-a5b8-3dad38bc8bf6" />
+</p>
 
 Linkage Assembly Model:
 
