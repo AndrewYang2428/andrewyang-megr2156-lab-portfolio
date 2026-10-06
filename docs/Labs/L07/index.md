@@ -75,9 +75,16 @@ After printing the sliding mechanism, I assembled the components together to mak
 
 ## Lessons Learned:
 
+For this assignment, I learned to take advantage of what I have already learned from previous assignments for assistance. I chose to use the snap fit mechanisms from the previous assignment to create the linkage mechanism that I designed for this assignment. This made finding the fitment for the linkages easy because I already knew the tolerances required to ensure that the fitment was correct. With this, I was able to create a snap fit as well as a rotating fit to make this linkage work properly. I learned that with these CAD assemblies, they may work properly in a CAD software, but they may not work when it is finally printed out. With these designs there could be many trial and errors that can occur to make the design right. I learned about different linkage mechanisms that are used in the industry and the function of each linkage. There are many different types of linkage mechanisms, and they all serve a purpose based on how they are designed and how they perform. For this assignment, I used a sliding linkage mechanism, which has a sliding mechanism and a rotating mechanism. Linkage mechanisms are used in many different ways that we may not see on a day-to-day life, but this assignment shows how important linkage mechanisms are too many industries.
+
 ### Time:
+
+This assignment took 7 hours to complete. 
 
 ### Biggest Mistake:
 
+The most significant mistake or failure from this project was orienting the part in Prusa Slicer in the wrong way. This made placing the supports in a tight place, which made it hard to take out when the print was complete. I had to orient the part in a way to make it easy to take the supports out when the print is done. This was a simple fix but it also allowed me to make changes in the design to improve it. 
+
 ### Tolerances:
 
+For the tolerances on this design, I based it on the tolerances of the snap fit assignment. This made finding the tolerances for this easy and I was able to continue with the assignment. If I could change the tolerances on this design, I would adjust the slider fitment as well as the slider bracket to ensure there is a smoother slide when the linkage mechanism is in play.
