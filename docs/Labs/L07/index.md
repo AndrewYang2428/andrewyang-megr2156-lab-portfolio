@@ -2,19 +2,19 @@
 
 ## Research:
 
-Linkage/Mechanism 1:
+#### Linkage/Mechanism 1:
 
 - Geared Linkage
 
 The gear linkage is a mechanical system that connects a drivers input to a gear transmission, translating motion and force into the correct gear engagement. It is an assembly of rigid links connected by joints that convert motion and force from one form to another. Some examples of this linkage mechanism is the car gearbox that connects to a manual transmission. A wind turbine has a gear linkage that connects the slow rotating turbine blades to a high-speed generator. Another example is the clock, inside of a clock there is an interconnection of gear and spring components that transfer and regulate motion from the clock's power source to its hands, ensuring accurate timekeeping. 
 
-Linkage/Mechanism 2:
+#### Linkage/Mechanism 2:
 
 - Sliding Mechanism
 
 The sliding linkage mechanism works by constraining one link to move linearly along a guide while another link drives it through a connected rod, converting motion into reciprocating motions. Some examples of the sliding linkage mechanism are internal combustion engines, hydraulics pumps, and sewing machines. For internal combustion engines, the linkage can be described as the pistons inside of the engine. The piston uses a slider-crank to convert combustion pressure into the crankshaft rotation. Hydraulic pumps act as a sliding linkage because can be used to drive joints, moving them back and forth. A sewing machine has a small sliding linkage that allows the needle to move up and down. 
 
-Resources:
+#### Resources:
 
 Website #1: [https://www.mdpi.com/2075-1702/12/3/182](https://www.mdpi.com/2075-1702/12/3/182)
 
@@ -111,17 +111,17 @@ For this assignment, some key decisions that I made were choosing the type or st
 
 ## 3D Print:
 
-### Overview:
+#### Overview:
 
 After printing the sliding mechanism, I assembled the components together to make ensure that each component fit together perfectly. I also made sure that the slider slid through the bracket smoothly. This is one of the most important features of the print process because it has to slide smoothly for this mechanism to work. After inspecting each component and assembling them together, I tested the mechanism to ensure that it functioned properly and that each component did what it needed to do. As a result, each component fits perfectly and the sliding mechanism functions the way I wanted it to.
 
-### PrusaSlicer Info:
+#### PrusaSlicer Info:
 
 <p align='center'>
 <img width="1917" height="1020" alt="Linkage_PrusaSlicer_Info" src="https://github.com/user-attachments/assets/f35b7ece-d37a-49eb-aaf6-33db9e86b7f3" />
 </p>
 
-### Sliding Bracket:
+#### Sliding Bracket:
 
 <p align='center'>
 <img width="4032" height="3024" alt="IMG_8130" src="https://github.com/user-attachments/assets/c569f94b-5794-43e7-9f5b-5998f7817a20" />
@@ -129,27 +129,27 @@ After printing the sliding mechanism, I assembled the components together to mak
 <img width="4032" height="3024" alt="IMG_8136" src="https://github.com/user-attachments/assets/f4a71516-6251-4622-8d0c-460ed2749789" />
 </p>
 
-### Slider:
+#### Slider:
 
 <p align='center'>
 <img width="4032" height="3024" alt="IMG_8140" src="https://github.com/user-attachments/assets/92648d06-4fe5-4381-ae6a-362a91a19225" />
 <img width="3024" height="4032" alt="IMG_8139" src="https://github.com/user-attachments/assets/ebb87602-1b8d-4f20-845d-15c540a35027" />
 </p>
 
-### Wheel:
+#### Wheel:
 
 <p align='center'>
 <img width="4032" height="3024" alt="IMG_8138" src="https://github.com/user-attachments/assets/50865a76-945c-4d87-a492-9dd26deac003" />
 </p>
 
-### Linkage:
+#### Linkage:
 
 <p align='center'>
 <img width="4032" height="3024" alt="IMG_8141" src="https://github.com/user-attachments/assets/552c9916-531e-4525-ab9e-186229160e14" />
 <img width="4032" height="3024" alt="IMG_8142" src="https://github.com/user-attachments/assets/c1f7afc8-ac64-4a2d-9584-7a3735f8f751" />
 </p>
 
-### Final Assembly:
+#### Final Assembly:
 
 <p align='center'>
 <img width="4032" height="3024" alt="IMG_8143" src="https://github.com/user-attachments/assets/501323ab-a635-4aaf-b4c0-a01d44b7f825" />
@@ -157,7 +157,7 @@ After printing the sliding mechanism, I assembled the components together to mak
 <img width="4032" height="3024" alt="IMG_8145" src="https://github.com/user-attachments/assets/51e84430-f28d-4969-ba5c-2ccecaea9d5b" />
 </p>
 
-### Video of Components:
+#### Video of Components:
 
 <img width="1000" height="600" alt="ezgif-88faf28a9a00b513" src="https://github.com/user-attachments/assets/16640869-6479-4b93-8cd2-cf321d88a754" />
 
