@@ -37,6 +37,23 @@ For this assignment, I chose to design a sliding linkage mechanism. For my desig
 
 For this design, it has 4 components that connect to each other to make this mechanism work properly. This sliding mechanism consists of the Sliding Bracket, Slider, Wheel, and the Linkage. I designed all of these components to snap onto each other but allowing them to move freely and to rotate about each component. 
 
+Sliding Bracket:
+
+<img width="1917" height="1020" alt="Sliding_Bracket" src="https://github.com/user-attachments/assets/62e234c6-a74a-4baa-8a7d-63835ddad69d" />
+
+Slider:
+
+<img width="1917" height="1017" alt="Slider" src="https://github.com/user-attachments/assets/9fa6e930-2506-42fd-a33a-876d41441e85" />
+
+Wheel:
+
+<img width="1917" height="1020" alt="Wheel" src="https://github.com/user-attachments/assets/088f0390-73a1-47d8-8032-301fd6f20c6d" />
+
+Linkage:
+
+<img width="1917" height="1020" alt="Linkage" src="https://github.com/user-attachments/assets/b0b370e0-756c-49e4-92d1-886eca40c04f" />
+
+
 ### Tolerances:
 
 For each moving interface, I designed them to have a clearance of 120 thousandths of an inch. For the joints, I designed a snap fit that had 100 thousandths of an inch difference that allowed for the perfect fit. From previous assignments and multiple test fits before, I knew what the tolerances should be to make this design work. 
