@@ -102,12 +102,6 @@ Linkage:
 <img width="49.5%" height="1020" alt="Linkage_Snap_Coutout_Extrusion" src="https://github.com/user-attachments/assets/74d13724-6d6f-4fa6-a5b8-3dad38bc8bf6" />
 </p>
 
-Linkage Assembly Model:
-
-<p align='center'>
-<img width="800" height="425" alt="Sliding_Linkage_GIF" src="https://github.com/user-attachments/assets/f0b5233d-a3e9-457c-84c6-588b85ea1cd3" />
-</p>
-
 ### Tolerances:
 
 For each moving interface, I designed them to have a clearance of 120 thousandths of an inch. For the joints, I designed a snap fit that had 100 thousandths of an inch difference that allowed for the perfect fit. From previous assignments and multiple test fits before, I knew what the tolerances should be to make this design work. 
@@ -116,11 +110,27 @@ For each moving interface, I designed them to have a clearance of 120 thousandth
 
 For this assignment, some key decisions that I made were choosing the type or style linkage to use for this design. I chose to use the snap fit from the previous assignment to make the linkage because it allowed for less components while returning the same function. The snap fit allowed the link to stay locked in place without moving. Another decision was creating an assembly of all of these components and putting them together to see if my design would work the way I wanted it to be. By assembling my components together in SolidWorks, I got a better visual of what my design will look like as well as how it functioned. The next key decision that I made was orienting each component the right way as well as placing the supports in the right way to get the best print. I needed the sliding surfaces to be as smooth as possible so that when the components are all connected, the slider would slide smoothly through the slider bracket. The hole in the slider needed supports as well to ensure the hole held its tolerances without folding in. 
 
-### Images:
+### Linkage Assembly Model:
+
+<p align='center'>
+<img width="800" height="425" alt="Sliding_Linkage_GIF" src="https://github.com/user-attachments/assets/f0b5233d-a3e9-457c-84c6-588b85ea1cd3" />
+</p>
 
 ## 3D Print:
 
-After printing the sliding mechanism, I assembled the components together to make ensure that each component fit together perfectly. I also made sure that the slider slid through the bracket smoothly. This is one of the most important features of the print process because it has to slide smoothly for this mechanism to work. After inspecting each component and assembling them together, I tested the mechanism to ensure that it functioned properly and that each component did what it needed to do. As a result, each component fits perfectly and the sliding mechanism functions the way I wanted it to. 
+After printing the sliding mechanism, I assembled the components together to make ensure that each component fit together perfectly. I also made sure that the slider slid through the bracket smoothly. This is one of the most important features of the print process because it has to slide smoothly for this mechanism to work. After inspecting each component and assembling them together, I tested the mechanism to ensure that it functioned properly and that each component did what it needed to do. As a result, each component fits perfectly and the sliding mechanism functions the way I wanted it to.
+
+### PrusaSlicer Info:
+
+<img width="1917" height="1020" alt="Linkage_PrusaSlicer_Info" src="https://github.com/user-attachments/assets/f35b7ece-d37a-49eb-aaf6-33db9e86b7f3" />
+
+### Sliding Bracket:
+
+### Slider:
+
+### Wheel:
+
+### Linkage:
 
 ## Lessons Learned:
 
