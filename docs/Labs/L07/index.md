@@ -113,7 +113,7 @@ For this assignment, some key decisions that I made were choosing the type or st
 ### Linkage Assembly Model:
 
 <p align='center'>
-<img width="800" height="425" alt="Sliding_Linkage_GIF" src="https://github.com/user-attachments/assets/f0b5233d-a3e9-457c-84c6-588b85ea1cd3" />
+<img width="1100" height="600" alt="Sliding_Linkage_GIF" src="https://github.com/user-attachments/assets/f0b5233d-a3e9-457c-84c6-588b85ea1cd3" />
 </p>
 
 ## 3D Print:
@@ -122,15 +122,49 @@ After printing the sliding mechanism, I assembled the components together to mak
 
 ### PrusaSlicer Info:
 
+<p align='center'>
 <img width="1917" height="1020" alt="Linkage_PrusaSlicer_Info" src="https://github.com/user-attachments/assets/f35b7ece-d37a-49eb-aaf6-33db9e86b7f3" />
+</p>
 
 ### Sliding Bracket:
 
+<p align='center'>
+<img width="4032" height="3024" alt="IMG_8130" src="https://github.com/user-attachments/assets/c569f94b-5794-43e7-9f5b-5998f7817a20" />
+<img width="4032" height="3024" alt="IMG_8132" src="https://github.com/user-attachments/assets/25bc3a77-0478-47c0-b14d-17141e1874f9" />
+<img width="4032" height="3024" alt="IMG_8136" src="https://github.com/user-attachments/assets/f4a71516-6251-4622-8d0c-460ed2749789" />
+</p>
+
 ### Slider:
+
+<p align='center'>
+<img width="4032" height="3024" alt="IMG_8140" src="https://github.com/user-attachments/assets/92648d06-4fe5-4381-ae6a-362a91a19225" />
+<img width="3024" height="4032" alt="IMG_8139" src="https://github.com/user-attachments/assets/ebb87602-1b8d-4f20-845d-15c540a35027" />
+</p>
 
 ### Wheel:
 
+<p align='center'>
+<img width="4032" height="3024" alt="IMG_8138" src="https://github.com/user-attachments/assets/50865a76-945c-4d87-a492-9dd26deac003" />
+</p>
+
 ### Linkage:
+
+<p align='center'>
+<img width="4032" height="3024" alt="IMG_8141" src="https://github.com/user-attachments/assets/552c9916-531e-4525-ab9e-186229160e14" />
+<img width="4032" height="3024" alt="IMG_8142" src="https://github.com/user-attachments/assets/c1f7afc8-ac64-4a2d-9584-7a3735f8f751" />
+</p>
+
+### Final Assembly:
+
+<p align='center'>
+<img width="4032" height="3024" alt="IMG_8143" src="https://github.com/user-attachments/assets/501323ab-a635-4aaf-b4c0-a01d44b7f825" />
+<img width="4032" height="3024" alt="IMG_8146" src="https://github.com/user-attachments/assets/ad156b44-d328-43f5-b608-9e033d98bb49" />
+<img width="4032" height="3024" alt="IMG_8145" src="https://github.com/user-attachments/assets/51e84430-f28d-4969-ba5c-2ccecaea9d5b" />
+</p>
+
+### Video of Components:
+
+<img width="1000" height="600" alt="ezgif-88faf28a9a00b513" src="https://github.com/user-attachments/assets/16640869-6479-4b93-8cd2-cf321d88a754" />
 
 ## Lessons Learned:
 
