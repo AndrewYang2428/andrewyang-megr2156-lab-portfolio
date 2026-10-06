@@ -53,6 +53,11 @@ Linkage:
 
 <img width="1917" height="1020" alt="Linkage" src="https://github.com/user-attachments/assets/b0b370e0-756c-49e4-92d1-886eca40c04f" />
 
+Linkage Assembly Model:
+
+<p align='center'>
+<img width="800" height="425" alt="Sliding_Linkage_GIF" src="https://github.com/user-attachments/assets/f0b5233d-a3e9-457c-84c6-588b85ea1cd3" />
+</p>
 
 ### Tolerances:
 
