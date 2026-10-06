@@ -2,20 +2,11 @@
 
 ## Research:
 
-- Find two linkage or mechanisms that were developed, patented, or published within the last 5 years (2021 - present)
-- Explain how it works and include an image or skecth
-- For each one describe how it could be used in at least 2 different industries.
-- Cite sources
-
 Linkage/Mechanism 1:
 
 - Geared Linkage
 
 The gear linkage is a mechanical system that connects a drivers input to a gear transmission, translating motion and force into the correct gear engagement. It is an assembly of rigid links connected by joints that convert motion and force from one form to another. Some examples of this linkage mechanism is the car gearbox that connects to a manual transmission. A wind turbine has a gear linkage that connects the slow rotating turbine blades to a high-speed generator. Another example is the clock, inside of a clock there is an interconnection of gear and spring components that transfer and regulate motion from the clock's power source to its hands, ensuring accurate timekeeping. 
-
-Resources:
-
-
 
 Linkage/Mechanism 2:
 
@@ -25,7 +16,9 @@ The sliding linkage mechanism works by constraining one link to move linearly al
 
 Resources:
 
+Website #1: [https://www.mdpi.com/2075-1702/12/3/182](https://www.mdpi.com/2075-1702/12/3/182)
 
+Website #2: [https://uark.pressbooks.pub/mechanicaldesign/chapter/linkages-and-mechanisms/](https://uark.pressbooks.pub/mechanicaldesign/chapter/linkages-and-mechanisms/)
 
 ## Design:
 
@@ -37,7 +30,7 @@ For this assignment, I chose to design a sliding linkage mechanism. For my desig
 
 For this design, it has 4 components that connect to each other to make this mechanism work properly. This sliding mechanism consists of the Sliding Bracket, Slider, Wheel, and the Linkage. I designed all of these components to snap onto each other but allowing them to move freely and to rotate about each component. 
 
-Sliding Bracket:
+#### Sliding Bracket:
 
 <img width="1917" height="1020" alt="Sliding_Bracket" src="https://github.com/user-attachments/assets/62e234c6-a74a-4baa-8a7d-63835ddad69d" />
 
@@ -55,7 +48,7 @@ Sliding Bracket:
 <img width="49.5%" height="1020" alt="Sliding_Bracket_Snap_Cut_Extrusion" src="https://github.com/user-attachments/assets/4eff0012-c7d6-46ce-bf51-1b37f3a6cb62" />
 </p>
 
-Slider:
+#### Slider:
 
 <img width="1917" height="1017" alt="Slider" src="https://github.com/user-attachments/assets/9fa6e930-2506-42fd-a33a-876d41441e85" />
 <p align='center'>
@@ -65,7 +58,7 @@ Slider:
 <img width="49.5%" height="1020" alt="Slider_Cut_Extrusion" src="https://github.com/user-attachments/assets/571cd0b3-b6d5-4cd9-b9df-39af4948ba55" />
 </p>
 
-Wheel:
+#### Wheel:
 
 <img width="1917" height="1020" alt="Wheel" src="https://github.com/user-attachments/assets/088f0390-73a1-47d8-8032-301fd6f20c6d" />
 
@@ -82,7 +75,7 @@ Wheel:
 <img width="49.5%" height="1020" alt="Wheel_Cutout" src="https://github.com/user-attachments/assets/a16fb810-edb3-4c53-8b2e-f73fb6b89cbe" />
 </p>
 
-Linkage:
+#### Linkage:
 
 <img width="1917" height="1020" alt="Linkage" src="https://github.com/user-attachments/assets/b0b370e0-756c-49e4-92d1-886eca40c04f" />
 
@@ -117,6 +110,8 @@ For this assignment, some key decisions that I made were choosing the type or st
 </p>
 
 ## 3D Print:
+
+### Overview:
 
 After printing the sliding mechanism, I assembled the components together to make ensure that each component fit together perfectly. I also made sure that the slider slid through the bracket smoothly. This is one of the most important features of the print process because it has to slide smoothly for this mechanism to work. After inspecting each component and assembling them together, I tested the mechanism to ensure that it functioned properly and that each component did what it needed to do. As a result, each component fits perfectly and the sliding mechanism functions the way I wanted it to.
 
