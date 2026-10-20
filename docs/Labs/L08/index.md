@@ -48,12 +48,28 @@ CAD File: [Cover Model](Cover.SLDPRT)
 
 Key Safe Assembly File: [Key Safe Assembly Model](KeySafe.SLDASM)
 
+## PrusaSlicer Info:
+
+
 
 ## 3D Print:
 
 ### Video of the process of the 3D Print:
 
+<img width="800" height="450" alt="ezgif-2630ef83a9086b88" src="https://github.com/user-attachments/assets/b901d476-c8db-477b-afe1-6672c4c80080" />
 
+### Safe:
+
+<img width="3024" height="4032" alt="IMG_8172" src="https://github.com/user-attachments/assets/b454ccdd-7091-4ca0-b458-53332f181034" />
+<img width="3024" height="4032" alt="IMG_8173" src="https://github.com/user-attachments/assets/7999ebbe-5b5d-4417-8985-a50537142274" />
+
+### Cover:
+
+<img width="3024" height="4032" alt="IMG_8175" src="https://github.com/user-attachments/assets/b7c0c53e-a745-4db2-9445-09edfe794576" />
+
+### Key Safe:
+
+<img width="3024" height="4032" alt="IMG_8177" src="https://github.com/user-attachments/assets/9e558ab1-f5c3-4a39-8d8b-c5f2b2b008a0" />
 
 What number machine did you use?
 
