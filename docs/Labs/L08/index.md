@@ -55,6 +55,8 @@ Key Safe Assembly File: [Key Safe Assembly Model](KeySafe.SLDASM)
 <img width="1917" height="1017" alt="KeySafe_Supports" src="https://github.com/user-attachments/assets/784cd6fd-7e53-459a-8407-2c6b89a9c2f4" />
 <img width="4032" height="3024" alt="IMG_8170" src="https://github.com/user-attachments/assets/301bae7d-908a-4071-aee4-454a8dca677d" />
 
+For this project, I used 3D Printer # 01 to print my design. I kept the default settings for my design. The most important part of this project was ensuring that the overhangs came out smooth in order to slide the cover back and forth. I had to use supports and orient it in the best way for a fast print time and also to have a smooth surface for the Key Safe. To remove the supports, I used the plyers to snipper to take the supports out. It was a small fit so taking the supports was pretty hard, but I got them out eventually. I kept this design small and minimal because the structure does not undergo and force or load so by keeping the print simple, this allowed for no changes in the default print settings. 
+
 ## 3D Print:
 
 ### Video of the process of the 3D Print:
@@ -76,33 +78,11 @@ Key Safe Assembly File: [Key Safe Assembly Model](KeySafe.SLDASM)
 
 <img width="3024" height="4032" alt="IMG_8177" src="https://github.com/user-attachments/assets/9e558ab1-f5c3-4a39-8d8b-c5f2b2b008a0" />
 
-What number machine did you use?
-
-Did you use a raft? If so, what were the settings?
-
-What was the wall thickness?
-
-What infill did you use and why?
-
-Did you use supports? Why or why not? If you did, explain the technical process you used to support the print.
-
-What did you use to remove the supports?
-
-How many layers are used in the print?
-
-What is the layer thickness?
-
-What is the build volume of your print?
-
-Comment on the surface finish of the supports
-
-Outline reasons for the layout.
-
-Outline reasons for build orientation.
-
-Outline slicer settings and reasons for the settings.
-
-Note the slice information on Prusa Slicer
-
 ## Lessons Learned:
+
+For this project, I learned that it is important to ask questions, whether or not it is an important question, it will help you have a better understanding of what you are trying to understand. While trying to print my design, there were many issues with the 3D Printers, so it was hard to find a printer that wasn't in use to print my design out. Many of the printers are having issues so there is a limited amount of resources so we are all fighting for the printers. For the last few projects, I've been using PETG so when I printed out my first design in PLA, the material properties are different so I had to adjust it to work with the PLA filament. Eventually I was able to find a printer running PETG, so I ended up printing my design in that Printer instead. I learned that it can become difficult to design something useful when everything is set and functioning properly. After doing research, it became easier, but it was still difficult to design something useful. Looking back at my weekend, getting locked out helped me come to a conclusion about what I should design for this project, which was the Key Safe. There are many small things in our lives that we use but never take in consideration that we are using them so after thinking and doing research, I learned how to pay attention to the small things in my life to come up with this design. 
+
+## Total Time:
+
+For this project, it took me about 8 hours to complete. 
 
