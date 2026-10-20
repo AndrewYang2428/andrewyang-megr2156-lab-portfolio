@@ -50,6 +50,9 @@ Key Safe Assembly File: [Key Safe Assembly Model](KeySafe.SLDASM)
 
 ## PrusaSlicer Info:
 
+<img width="1917" height="1020" alt="KeySafe_Prusa_Info" src="https://github.com/user-attachments/assets/8aa7e7f1-5324-4991-bba2-63a4cc69cab2" />
+<img width="1917" height="1017" alt="KeySafe_Infill" src="https://github.com/user-attachments/assets/a953c3d6-dc4c-45b8-a0fb-e18761c72f4e" />
+<img width="1917" height="1017" alt="KeySafe_Supports" src="https://github.com/user-attachments/assets/784cd6fd-7e53-459a-8407-2c6b89a9c2f4" />
 
 
 ## 3D Print:
