@@ -53,7 +53,7 @@ Key Safe Assembly File: [Key Safe Assembly Model](KeySafe.SLDASM)
 <img width="1917" height="1020" alt="KeySafe_Prusa_Info" src="https://github.com/user-attachments/assets/8aa7e7f1-5324-4991-bba2-63a4cc69cab2" />
 <img width="1917" height="1017" alt="KeySafe_Infill" src="https://github.com/user-attachments/assets/a953c3d6-dc4c-45b8-a0fb-e18761c72f4e" />
 <img width="1917" height="1017" alt="KeySafe_Supports" src="https://github.com/user-attachments/assets/784cd6fd-7e53-459a-8407-2c6b89a9c2f4" />
-<img width="3024" height="4032" alt="IMG_8170" src="https://github.com/user-attachments/assets/926e5a9e-a71b-4836-a722-75abbb1c96a9" />
+<img width="4032" height="3024" alt="IMG_8170" src="https://github.com/user-attachments/assets/301bae7d-908a-4071-aee4-454a8dca677d" />
 
 ## 3D Print:
 
