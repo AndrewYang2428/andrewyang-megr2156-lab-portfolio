@@ -31,7 +31,7 @@ The purpose of my design is to hold and keep a spare key in a safe, hidden in a 
 <img width="1917" height="1020" alt="Safe_Slider_Sketch" src="https://github.com/user-attachments/assets/8432570b-67bb-4143-92b0-e68c185e440c" />
 <img width="1917" height="1017" alt="Safe_Slider_Extrusion" src="https://github.com/user-attachments/assets/52765d33-c2d7-4349-9e2f-e30f3a8e0751" />
 
-CAD File:
+CAD File:[Safe Model](Case.SLDPRT)
 
 ### Cover:
 
@@ -40,13 +40,13 @@ CAD File:
 <img width="1917" height="1020" alt="Cover_Addon_Sketch" src="https://github.com/user-attachments/assets/f308a4ec-42f9-4542-b8b0-cbc9df11ef26" />
 <img width="1917" height="1017" alt="Cover_Addon_Extrusion" src="https://github.com/user-attachments/assets/40f8f32c-acf2-4870-83b0-b09b9783993b" />
 
-CAD File:
+CAD File: [Cover Model](Cover.SLDPRT)
 
 ## KeySafe:
 
 <img width="1917" height="1020" alt="KeySafe" src="https://github.com/user-attachments/assets/727f55c0-0ec0-4efd-a23e-9fbf41a3a15a" />
 
-Key Safe Assembly File: 
+Key Safe Assembly File: [Key Safe Assembly Model](KeySafe.SLDASM)
 
 
 ## 3D Print:
