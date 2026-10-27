@@ -33,6 +33,7 @@ As a group, we decided to go with the 2.55 mm clearance for the thickness of the
 
 ### Step 5: Cut and assemble your final kit. Record the cut on video and log your settings in the Laser Process Record.
 
+<img width="800" height="450" alt="Laser" src="https://github.com/user-attachments/assets/1ef2e35e-c4a7-40cf-8229-b7980bc05311" />
 
 ## Design:
 
