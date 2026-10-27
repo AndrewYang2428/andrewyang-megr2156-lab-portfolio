@@ -1,19 +1,18 @@
 # Lab #9: Laser Cutter
 
-## Analyze
-
-Step 1: Measure your sheet with calipers at a minimum of 3 locations. Record each value and the mean. Use the mean as your thickness variable.
-
+## Analyze: 
+### Step 1: Measure your sheet with calipers at a minimum of 3 locations. Record each value and the mean. Use the mean as your thickness variable.
 
 
-Step 2: Choose a square size, D, between 15 mm and 30 mm. Record the value you chose. Design and cut one D × D square kerf coupon. Measure the square with calipers in both the X and Y directions. Kerf = D − measured width. Record both values and note any difference between X and Y.
+
+### Step 2: Choose a square size, D, between 15 mm and 30 mm. Record the value you chose. Design and cut one D × D square kerf coupon. Measure the square with calipers in both the X and Y directions. Kerf = D − measured width. Record both values and note any difference between X and Y.
 
 <img width="1917" height="1020" alt="Tester" src="https://github.com/user-attachments/assets/abc733ce-7619-440f-8e46-a1eee3cf9b32" />
 <img width="1917" height="1017" alt="Tester_Epilog" src="https://github.com/user-attachments/assets/afec2635-957b-4122-9462-cac6ed4c3cc7" />
 
 To test for the Kerf of the Laser Cutter, my group decided to create a 25.4 mm x 25.4 mm (1 in. x 1 in.) square to test for the Kerf of the Laser Cutter. After cutting the 25.4 mm x 25.4 mm square out, we made calculations to find the Kerf of the Laser to continue to the next step of the project. 
 
-Step 3: Design a fit coupon with one tab and 3 slots at 3 different clearances (tight, target, loose), based on your measured thickness and kerf. Cut and test it. Rate each fit and photograph the results.
+### Step 3: Design a fit coupon with one tab and 3 slots at 3 different clearances (tight, target, loose), based on your measured thickness and kerf. Cut and test it. Rate each fit and photograph the results.
 
 <img width="1917" height="1017" alt="Screenshot 2026-10-23 130230" src="https://github.com/user-attachments/assets/eb33c034-7198-4838-aafe-a5749530fa31" />
 <img width="1917" height="1020" alt="Screenshot 2026-10-23 130344" src="https://github.com/user-attachments/assets/6ef142f3-82b2-4acc-9728-8edc8439d668" />
@@ -21,17 +20,15 @@ Step 3: Design a fit coupon with one tab and 3 slots at 3 different clearances (
 
 After calculating the Kerf on the Laser Cutter and making measurements to double check our calculation, we decided to create a design that tested for many different clearances to see what would work best for our design. We spread the ranges out from 1 mm above the calculated thickness to 2 mm below the calculated thickness. For the design that we chose, the value that has the greatest effect on it is the thickness, so we created this coupon design to test for that. 
 
-## Decide
-
-Step 4: Select the clearance that gives the most reliable fit and explain why.
+### Step 4: Select the clearance that gives the most reliable fit and explain why.
 
 As a group, we decided to go with the 2.55 mm clearance for the thickness of the birch plywood. This fitment allowed for a nice press fit as well as a flush fitment between each piece. This will allow us to make a nice snug fit design that has no overhangs from the excess material sticking out. 
 
-## Manufacturing
+### Step 5: Cut and assemble your final kit. Record the cut on video and log your settings in the Laser Process Record.
 
-Step 5: Cut and assemble your final kit. Record the cut on video and log your settings in the Laser Process Record.
+## Design:
 
-## Process Research:
+### Process Research:
 
 In one or two paragraphs, explain how laser cutting works and why it is a viable manufacturing process. Compare it with FDM printing on at least two of the following: speed, cost, material options, geometric limits.
 
