@@ -3,12 +3,13 @@
 ## Analyze: 
 ### Step 1: Measure your sheet with calipers at a minimum of 3 locations. Record each value and the mean. Use the mean as your thickness variable.
 
-
+<img width="521" height="1296" alt="IMG_0415" src="https://github.com/user-attachments/assets/a085171e-0837-4952-be9a-601c3c0b8d7c" />
 
 ### Step 2: Choose a square size, D, between 15 mm and 30 mm. Record the value you chose. Design and cut one D × D square kerf coupon. Measure the square with calipers in both the X and Y directions. Kerf = D − measured width. Record both values and note any difference between X and Y.
 
 <img width="1917" height="1020" alt="Tester" src="https://github.com/user-attachments/assets/abc733ce-7619-440f-8e46-a1eee3cf9b32" />
 <img width="1917" height="1017" alt="Tester_Epilog" src="https://github.com/user-attachments/assets/afec2635-957b-4122-9462-cac6ed4c3cc7" />
+<img width="3024" height="4032" alt="IMG_8254" src="https://github.com/user-attachments/assets/bd21eb32-341a-4407-9522-05d805e1add3" />
 
 To test for the Kerf of the Laser Cutter, my group decided to create a 25.4 mm x 25.4 mm (1 in. x 1 in.) square to test for the Kerf of the Laser Cutter. After cutting the 25.4 mm x 25.4 mm square out, we made calculations to find the Kerf of the Laser to continue to the next step of the project. 
 
@@ -17,16 +18,35 @@ To test for the Kerf of the Laser Cutter, my group decided to create a 25.4 mm x
 <img width="1917" height="1017" alt="Screenshot 2026-10-23 130230" src="https://github.com/user-attachments/assets/eb33c034-7198-4838-aafe-a5749530fa31" />
 <img width="1917" height="1020" alt="Screenshot 2026-10-23 130344" src="https://github.com/user-attachments/assets/6ef142f3-82b2-4acc-9728-8edc8439d668" />
 <img width="1917" height="1020" alt="Screenshot 2026-10-23 130318" src="https://github.com/user-attachments/assets/8d3338bb-ae53-4df7-8c5d-d64cd9888758" />
+<img width="3024" height="4032" alt="IMG_8255" src="https://github.com/user-attachments/assets/634d6778-8a92-47d8-ba84-46f4178c09d0" />
+
 
 After calculating the Kerf on the Laser Cutter and making measurements to double check our calculation, we decided to create a design that tested for many different clearances to see what would work best for our design. We spread the ranges out from 1 mm above the calculated thickness to 2 mm below the calculated thickness. For the design that we chose, the value that has the greatest effect on it is the thickness, so we created this coupon design to test for that. 
 
 ### Step 4: Select the clearance that gives the most reliable fit and explain why.
 
+<img width="3024" height="4032" alt="IMG_8256" src="https://github.com/user-attachments/assets/49e1d02d-fc28-4049-a1d0-f34849dd0171" />
+
 As a group, we decided to go with the 2.55 mm clearance for the thickness of the birch plywood. This fitment allowed for a nice press fit as well as a flush fitment between each piece. This will allow us to make a nice snug fit design that has no overhangs from the excess material sticking out. 
+
+## Comunicate:
 
 ### Step 5: Cut and assemble your final kit. Record the cut on video and log your settings in the Laser Process Record.
 
+
 ## Design:
+
+### Front Bumper:
+
+### Windshield:
+
+### Trunk:
+
+### Rear Bumper:
+
+### Bottom:
+
+### Wheels:
 
 ### Process Research:
 
