@@ -39,26 +39,32 @@ As a group, we decided to go with the 2.55 mm clearance for the thickness of the
 
 ### Front Bumper:
 
+<img width="1917" height="1020" alt="FrontGrill" src="https://github.com/user-attachments/assets/3a99ffc8-17de-44b6-bfc9-d63fdcc0d8eb" />
 <img width="3024" height="4032" alt="IMG_8257" src="https://github.com/user-attachments/assets/8474abf3-4bb0-4a0a-871e-47bae834530c" />
 
 ### Windshield:
 
+<img width="1917" height="1020" alt="Windshield" src="https://github.com/user-attachments/assets/d196d24d-ec17-404f-a08f-7e9344fee71a" />
 <img width="3024" height="4032" alt="IMG_8258" src="https://github.com/user-attachments/assets/7c63f6b7-1115-40b2-9ee2-772d2f90ee73" />
 
 ### Trunk:
 
+<img width="1917" height="1020" alt="Trunk" src="https://github.com/user-attachments/assets/5f89c05e-0ce8-4063-97c8-d78407da3aa9" />
 <img width="3024" height="4032" alt="IMG_8259" src="https://github.com/user-attachments/assets/85d60622-1e7c-47d6-b382-b93d21fd339d" />
 
 ### Rear Bumper:
 
+<img width="1917" height="1020" alt="Rear" src="https://github.com/user-attachments/assets/28dce8aa-fdf3-400f-810d-3abf4a68acb5" />
 <img width="3024" height="4032" alt="IMG_8260" src="https://github.com/user-attachments/assets/05d7bc69-5cb9-4743-905e-c58d250d4443" />
 
 ### Bottom:
 
+<img width="1917" height="1020" alt="Bottom" src="https://github.com/user-attachments/assets/8945dbf6-4b60-48f9-8ad8-c467acd4c30e" />
 <img width="3024" height="4032" alt="IMG_8262" src="https://github.com/user-attachments/assets/f08cbc59-1371-4bb3-80da-14672fc71ae4" />
 
 ### Wheels:
 
+<img width="296" height="271" alt="Wheels" src="https://github.com/user-attachments/assets/2aa8da9e-d263-41de-9db6-8bf8441bde67" />
 <img width="3024" height="4032" alt="IMG_8264" src="https://github.com/user-attachments/assets/01a33592-7b29-4938-be3a-493e1798eadc" />
 
 ### Process Research:
