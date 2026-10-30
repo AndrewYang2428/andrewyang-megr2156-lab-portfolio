@@ -62,6 +62,11 @@ As a group, we decided to go with the 2.55 mm clearance for the thickness of the
 <img width="1917" height="1020" alt="Bottom" src="https://github.com/user-attachments/assets/8945dbf6-4b60-48f9-8ad8-c467acd4c30e" />
 <img width="3024" height="4032" alt="IMG_8262" src="https://github.com/user-attachments/assets/f08cbc59-1371-4bb3-80da-14672fc71ae4" />
 
+### Side
+
+<img width="1917" height="1020" alt="SideView" src="https://github.com/user-attachments/assets/8e45743f-a110-4a54-9b86-f172eb52b477" />
+<img width="677" height="885" alt="Side" src="https://github.com/user-attachments/assets/7f16471b-4c30-472d-99e4-e7891c745391" />
+
 ### Wheels:
 
 <img width="296" height="271" alt="Wheels" src="https://github.com/user-attachments/assets/2aa8da9e-d263-41de-9db6-8bf8441bde67" />
