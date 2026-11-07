@@ -56,10 +56,26 @@ Total volume of the two parts may not exceed 20mL including supports.
 
 ## Post Processing:
 
+<img width="4284" height="5712" alt="IMG_8282 2" src="https://github.com/user-attachments/assets/eeafeb1e-2c8b-4eb5-b2ab-4b11c8a03b08" />
+<img width="4032" height="3024" alt="IMG_8284 2" src="https://github.com/user-attachments/assets/7c615dd1-e8d1-4d30-9b40-63bc3d59a5fc" />
+
+<img width="800" height="450" alt="Resin" src="https://github.com/user-attachments/assets/02e4d53e-c1f3-483a-ad14-5ed02f1eed84" />
+
+### Shaft:
+
+<img width="3024" height="4032" alt="IMG_8311" src="https://github.com/user-attachments/assets/154209d4-5c9e-475c-b4f0-52cab128d902" />
+
+### Sleeve:
+
+<img width="3024" height="4032" alt="IMG_8312" src="https://github.com/user-attachments/assets/b7a65047-acf5-49ac-91be-f8b93b66284b" />
+
+### Bearing:
+
+<img width="3024" height="4032" alt="IMG_8313" src="https://github.com/user-attachments/assets/7ac567db-72b6-4984-b52e-53ab727c47fc" />
 
 ## Fit Test:
 
-
+<img width="3024" height="4032" alt="IMG_8314" src="https://github.com/user-attachments/assets/3f86c6cf-dbbc-4b39-96a0-eff8a7439349" />
 
 ## Lessons Learned:
 
