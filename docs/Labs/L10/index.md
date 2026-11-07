@@ -18,7 +18,7 @@ Total volume of the two parts may not exceed 20mL including supports.
 
 ## Research and Planning:
 
-
+For my design, I chose to make a design based on the Gear Box Design Assignment in the lecture and also similar to a wheel bearing and shaft of a car. It was hard to take in consideration of the resin and how it would affect the fitment of the sliding fit of the shaft and bearing. Professor Fagan stated that the RC2 tolerance in the machinery handbook does not apply to this project since we are dealing with resin so I chose to make a guess on the tolerances to get the sliding fit based on my last experiences with resin. 
 
 ## CAD Design:
 
@@ -79,7 +79,11 @@ Total volume of the two parts may not exceed 20mL including supports.
 
 ## Lessons Learned:
 
+For this project, I learned that the RC2 fit in the machinery handbook was not accurate for this sliding fit assignment. I've worked with resin before so I knew that the fit would not be accurate so I took a guess on the fitment and it worked for the most part but the bearing did not fit correctly. Since this was the first time printing out on a SLA printer, the tolerances would be affected by the printer so I made sure to have more space than I thought to account for the excess resin and for any expansion of the material so the part will slide on together. I learned that all printers are different and they all have different tolerances set on them as well as different material so this made my experience challenging compared to my first experience. 
 
+## Time:
+
+It took 4 hours to complete this assignment. 
 
 
 
