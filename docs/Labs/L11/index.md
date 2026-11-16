@@ -43,6 +43,24 @@ Identify and describe in detail several problems (3 minimum) you find interestin
 
 Use clear headers and full sentences in your documentation.
 
+### Problem #1: Grooming Holder
+
+<p align = 'center'>
+<img width="1500" height="1240" alt="Organizer" src="https://github.com/user-attachments/assets/90ab7af0-cc1f-4de5-9982-1fa8a0d03b6f" />
+</p>
+
+Something that I wanted to design was a stand for my colognes and my necklaces to organize them and keep them all in one place. This would help me keep my space organized and clean allowing for easy access to my colognes. I would also design some type of drawer or a hanger to place my necklaces on. If I chose this to design for my final project, I would use the laser cutter and the FDM printer to make my parts for this design.
+
+
+### Problem #2: Rotating Pencil/Pen Holder
+
+One thing that I thought would be a good idea to design was a rotating pencil/pen holder for my brother since he likes to draw. He has a pencil box that he uses to store all of his color pencils and pens, instead of using that, he could use this holder to organize his pens and pencils and make it easier for him to draw without having to dig through his pencil box. If I were to design and build this, I would use the FDM and the SLA printers to make the parts for this design. 
+
+
+### Problem #3:
+
+I wanted to design something to organize my swim baits when I go fishing. At times they can get unorganized and they get all tangled up on each other, so I wanted to design a small tackle box that organizes the three main swim jigs that I mostly use to make it easier to access when I go out fishing. 
+
 
 
 ## Problem Selection:
