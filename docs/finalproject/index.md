@@ -1,4 +1,4 @@
-# A11 – Project Part 1: Define the problem and rough prototype
+# A11 – Project Part 1: Define the Problem and Rough Prototype
 
 ## Goal: 
 
