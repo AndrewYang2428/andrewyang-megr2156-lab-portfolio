@@ -54,10 +54,18 @@ Something that I wanted to design was a stand for my colognes and my necklaces t
 
 ### Problem #2: Rotating Pencil/Pen Holder
 
+<p align = 'center'>
+<img width="500" height="500" alt="Pen_Holder" src="https://github.com/user-attachments/assets/92b1fa89-b1af-4fe4-8d22-733cf4fa5d14" />
+</p>
+
 One thing that I thought would be a good idea to design was a rotating pencil/pen holder for my brother since he likes to draw. He has a pencil box that he uses to store all of his color pencils and pens, instead of using that, he could use this holder to organize his pens and pencils and make it easier for him to draw without having to dig through his pencil box. If I were to design and build this, I would use the FDM and the SLA printers to make the parts for this design. 
 
 
 ### Problem #3:
+
+<p align = 'center'>
+<img width="1527" height="1525" alt="TackleBox" src="https://github.com/user-attachments/assets/745c4c39-ece3-47fb-891c-08cc4509d31c" />
+</p>
 
 I wanted to design something to organize my swim baits when I go fishing. At times they can get unorganized and they get all tangled up on each other, so I wanted to design a small tackle box that organizes the three main swim jigs that I mostly use to make it easier to access when I go out fishing. 
 
