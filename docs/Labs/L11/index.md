@@ -44,6 +44,10 @@ SLA resin properties have a major influence on annular snap-fit design because t
 ## Preprocessing and 3D Printing:
 
 <img width="1917" height="1017" alt="Preform" src="https://github.com/user-attachments/assets/f3c032dd-4618-4b2a-8463-7b76f2493085" />
+<img width="4032" height="3024" alt="IMG_8331" src="https://github.com/user-attachments/assets/b885b92f-d54c-472b-a7e3-a3bb1e9bc4cd" />
+<img width="4032" height="3024" alt="IMG_8332" src="https://github.com/user-attachments/assets/560c735b-3020-44f2-9014-0ec6ccdaf37a" />
+<img width="4284" height="5712" alt="IMG_8334" src="https://github.com/user-attachments/assets/5c35cddc-1a8a-4fc5-87d7-dfe41ce0ffa0" />
+
 
 
 ## Post-Processing:
