@@ -56,11 +56,12 @@ SLA resin properties have a major influence on annular snap-fit design because t
 
 ## Validation:
 
-
+After making some adjustments on my design, I was able to get a decent fit on my snap fit part. There is some fitment adjustment that I can make to make it fit better and have a stronger snap, but I have to consider the SLA material that I was using. For the resin, I have to make the walls thick enough to hold its structure but also thin enough to be able to flex and bend to make the snap fit work properly. My design does snap and fit well, but I could apply tighter tolerances to make this snap design work better. 
 
 ## Lessons Learned:
 
-
+For this project, I learned more about adjusting the tolerances of my design to have the fit that I want. To get the snap fit that was required for this assignment, I made the tolerances larger than needed so that when the process was complete, it fit correctly. I also learned more about the SLA material and how to manipulate it to work with my design. The orientation of my design and where it is placed has an effect on how the print will come out and how long it will take to print my design. I learned more about different snap fit styles and how to design different snap fit designs that can be applied to other projects or designs. 
 
 ## Time to Complete:
 
+This project took about 10 hours to complete. 
