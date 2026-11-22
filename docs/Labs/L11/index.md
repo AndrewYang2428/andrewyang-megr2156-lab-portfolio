@@ -16,7 +16,7 @@ SLA resin properties have a major influence on annular snap-fit design because t
 
 ## Snap Fit CAD Design:
 
-### Snap:
+### [Snap](Snap2.SLDPRT):
 
 <img width="1917" height="1020" alt="snapfit" src="https://github.com/user-attachments/assets/38949b41-7e04-4dd9-8780-45724ab63a5c" />
 <img width="1917" height="1017" alt="snapbase" src="https://github.com/user-attachments/assets/06e52f0a-045d-45ed-a1e7-48470098119a" />
@@ -32,7 +32,7 @@ SLA resin properties have a major influence on annular snap-fit design because t
 <img width="1917" height="1017" alt="snapcutsection_extrusion" src="https://github.com/user-attachments/assets/d024308c-9c5c-4bab-be49-7d101b7d776f" />
 <img width="1917" height="1017" alt="snapfillet" src="https://github.com/user-attachments/assets/339868e9-caeb-41e6-914f-7c163c4c1904" />
 
-### Hole: 
+### [Hole](Hole.SLDPRT): 
 
 <img width="1917" height="1020" alt="snaphole" src="https://github.com/user-attachments/assets/0d21f7b8-a673-4e2d-8b70-4b29b5a0707b" />
 <img width="1917" height="1020" alt="snaphole_sketch" src="https://github.com/user-attachments/assets/265f6aff-f27c-4adb-9088-a7ca7c06a93e" />
