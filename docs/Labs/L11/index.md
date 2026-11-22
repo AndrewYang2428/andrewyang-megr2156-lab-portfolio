@@ -4,6 +4,10 @@
 
 Annualar Snap Fit:
 
+<p align='center'>
+<img width="474" height="225" alt="annular_snap_fit" src="https://github.com/user-attachments/assets/a313b708-400e-4553-bf7c-107d31b4d954" />
+</p>
+
 An annular snap fit is a circular, interference-based snap fit joint used mainly for cylindrical assemblies, where a male part with a circumferential ridge snap into an undercut groove in a female hub to create a secure, often detachable connection. 
 
 An “annual” snap-fit is designed to operate within the material’s elastic limits, with geometry and material chosen so that repeated assembly cycles over a year do not cause permanent deformation or fatigue failure. This requires careful beam theory calculations, material selection, and validation of both assembly force and long-term reliability.
