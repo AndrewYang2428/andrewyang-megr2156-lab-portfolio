@@ -77,6 +77,8 @@ Select one problem that can be addressed using manufacturing processes used in c
 
 Explain how and why you want to solve this problem.
 
+A problem that came to my attention was that when I go fishing, I am always stuck having to organize the swim baits and lures apart from each other. Since me and my dad both share fishing gear, it does get hard keeping our stuff separated. I decided to design and build my own tackle box that holds the three main fishing lures and swim baits that I use. This will help keep my stuff separated and organized, which will allow for easy access when I do go out fishing. 
+
 ## Concept Development:
 
 Generate a sketch or rough model of your overall design.
