@@ -52,7 +52,9 @@ SLA resin properties have a major influence on annular snap-fit design because t
 
 ## Post-Processing:
 
-
+<img width="4032" height="3024" alt="IMG_8511" src="https://github.com/user-attachments/assets/4ae4bc40-9b1d-49a6-bc53-4b0937fc4325" />
+<img width="4032" height="3024" alt="IMG_8510" src="https://github.com/user-attachments/assets/024fb746-25b5-4140-8c82-e4cf03310924" />
+<img width="3024" height="4032" alt="IMG_8512" src="https://github.com/user-attachments/assets/f321757d-2af4-47d3-b43f-088d4c7d081c" />
 
 ## Validation:
 
